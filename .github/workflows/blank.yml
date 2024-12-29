@@ -27,11 +27,11 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/series/s.gamep/Squid.Game.S02E06.2021.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/movie/My.Father.is.a.Hero.1995.720p.BluRay.x264-Pahe.in.mkv"
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=-1:720,subtitles=video.mkv:si=5" -r 24 -c:v libx264 -preset fast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "scale=-1:720,subtitles=https://str.tipiku.my.id/hardsub/movie/My.Father.Is.A.Hero.1995.srt" -r 24 -c:v libx264 -preset fast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
 
 
