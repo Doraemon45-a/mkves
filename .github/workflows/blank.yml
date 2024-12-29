@@ -1,4 +1,4 @@
-name: Convert MKV to MP4 and Upload to Google Drive
+name: Convert MKV to MP4 with Styled Subtitle and Upload to Google Drive
 
 on:
   push:
@@ -27,15 +27,30 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/movie/My.Father.is.a.Hero.1995.720p.BluRay.x264-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/GDFlix/Y2k.2024.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/My.Father.Is.A.Hero.1995.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Y2K.2024.720p.srt"
 
-    - name: Convert MKV to MP4
+    - name: Convert SRT to Styled ASS Subtitle
       run: |
-        ffmpeg -i video.mkv -vf "scale=-1:720,subtitles=subtitle.srt" -r 24 -c:v libx264 -preset fast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
+        echo "[Script Info]
+        Title: Subtitle with Style
+        ScriptType: v4.00+
+        PlayDepth: 0
+
+        [V4+ Styles]
+        Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+        Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
+
+        [Events]
+        Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text" > subtitle.ass
+        cat subtitle.srt | sed 's/^Dialogue: /Dialogue: 0,/' >> subtitle.ass
+
+    - name: Convert MKV to MP4 with Styled Subtitle
+      run: |
+        ffmpeg -i video.mkv -vf "scale=-1:1080,ass=subtitle.ass" -r 24 -c:v libx264 -preset veryfast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py video.mp4
