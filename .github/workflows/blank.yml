@@ -31,7 +31,7 @@ jobs:
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Emergency Declaration.2022.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Emergency.Declaration.2022.srt"
 
     - name: Convert MKV to MP4
       run: |
