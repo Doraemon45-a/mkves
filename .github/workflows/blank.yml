@@ -31,11 +31,11 @@ jobs:
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/shop/Light.Shop.S01E01.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/shop/Light.Shop.S01E01.srt"
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt" -r 24 -c:v libx264 -preset veryfast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt" -r 24 -c:v libx264 -preset veryfast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py video.mp4
