@@ -27,11 +27,11 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/RAW/lightsho.s1.1080.265-pahe.in/Light%20Shop%20Season%201%201080p%20x265%20%5BPahe.in%5D/Light.Shop.S01E01.Episode.1.Strangers.1080p.WEB-DL.x265.6CH-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/RAW/lightsho.s1.1080.265-pahe.in/Light%20Shop%20Season%201%201080p%20x265%20%5BPahe.in%5D/Light.Shop.S01E03.Episode.3.The.Detective.1080p.WEB-DL.x265.6CH-Pahe.in.mkv"
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/shop/Light.Shop.S01E01.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/shop/Light.Shop.S01E03.srt"
 
     - name: Convert MKV to MP4
       run: |
