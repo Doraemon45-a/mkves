@@ -27,21 +27,16 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://sxtcp.tg-index.workers.dev/0:/Never.Let.Go.2024.1080p.BluRay.x264.DD_5.1-Pahe.in.mkv"
+        curl -L -o video.mkv "https://sxtcp.tg-index.workers.dev/0:/drakor/Peninsula.2020.1080p.BluRay.x264.DD5.1-Pahe.in.mkv"
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Never.Let.Go.2024.WEBRip.Indonesian.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Train.to.Busan.2.Peninsula.2020.srt"
 
-    - name: Delay Subtitle File
-      run: |
-        ffmpeg -itsoffset 1.1 -i subtitle.srt -c copy delayed_subtitle.srt
-        
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=delayed_subtitle.srt" \
-        -r 24 -c:v libx264 -preset veryfast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" \
-        -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt" -r 24 -c:v libx264 -preset veryfast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=2.0" -movflags +faststart video.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py video.mp4
+
