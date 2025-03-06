@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/movieb/Kuasa.Gelap.2024.1080p.NF.WEB-DL.DDP5.1.H.264-JasDon.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/La%20Palma%20S01E02%20Take-off%201080p%20NF%20WEB-DL%20DDP5%201%20Atmos%20H%20264-PIX.mkv"
 
     - name: List files for debugging
       run: ls -lh
