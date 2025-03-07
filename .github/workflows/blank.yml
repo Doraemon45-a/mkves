@@ -27,14 +27,14 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/La%20Palma%20S01E04%20Safe%20Spot%201080p%20NF%20WEB-DL%20DDP5%201%20Atmos%20H%20264-PIX.mkv"
+        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/MirrorFolder%20oleh%20moona_mirrorbot/Dune%20Prophecy%20S1/Dune.Prophecy.S01E02.Two.Wolves.1080p.WEB-DL.x264.6CH-Pahe.in.mkv"
 
     - name: List files for debugging
       run: ls -lh
 
     - name: Convert MKV to MP4
       run: |
-        ffmpeg -i video.mkv -vf "crop=1920:818:0:140,scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18'" -r 24 -c:v libx264 -preset veryfast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.5" -movflags +faststart video.mp4
+        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt:force_style='Fontsize=18'" -r 24 -c:v libx264 -preset veryfast -crf 24 -c:a aac -b:a 160k -ac 2 -af "volume=2.5" -movflags +faststart video.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py video.mp4
