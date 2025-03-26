@@ -1,4275 +1,1505 @@
 1
-00:01:52,821 --> 00:01:54,524
-<font color="#ffff00">Ini semua soal ambisi.</font>
+00:00:58,416 --> 00:01:01,125
+<font color="#ffff00">Terima kasih banyak
+telah menyambut Mashiro.</font>
 
 2
-00:01:56,204 --> 00:01:57,084
-<font color="#ffff00">Bukan.</font>
+00:01:01,208 --> 00:01:03,000
+<font color="#ffff00">- Selamat datang.
+- Selamat datang.</font>
 
 3
-00:01:58,071 --> 00:02:00,125
-<font color="#ffff00">Ini semua soal batasan.</font>
+00:01:06,750 --> 00:01:09,500
+<font color="#ffff00">Tidak usah begitu kaku,
+seperti orang asing saja.</font>
 
 4
-00:02:00,696 --> 00:02:03,295
-<font color="#ffff00">Dan lo seharusnya tahu
-batasan lo di mana.</font>
+00:01:10,083 --> 00:01:13,250
+<font color="#ffff00">Semuanya menantikan Mashiro
+untuk bergabung.</font>
 
 5
-00:02:04,423 --> 00:02:08,202
-<font color="#ffff00">Bos lo, Tama. Ya, dia punya reputasi.</font>
+00:01:14,041 --> 00:01:15,041
+<font color="#ffff00">Salam kenal.</font>
 
 6
-00:02:08,244 --> 00:02:09,444
-<font color="#ffff00">Tapi dia tahu diri.</font>
+00:01:15,541 --> 00:01:17,666
+<font color="#ffff00">Mashiro, ini dari kami semua.</font>
 
 7
-00:02:10,204 --> 00:02:12,522
-<font color="#ffff00">Dia tahu sebatas apa dia bisa naik.</font>
+00:01:17,750 --> 00:01:18,583
+<font color="#ffff00">BUKU PERCAKAPAN MASHIRO</font>
 
 8
-00:02:12,564 --> 00:02:14,204
-<font color="#ffff00">Makanya Bangun kasih dia kekuasaan.</font>
+00:01:18,666 --> 00:01:21,708
+<font color="#ffff00">Saat aku menceritakan kalau Mashiro
+tidak bisa bicara pada anak-anak,</font>
 
 9
-00:02:22,876 --> 00:02:24,044
-<font color="#ffff00">Jangan khawatir.</font>
+00:01:21,791 --> 00:01:25,500
+<font color="#ffff00">mereka semua memiliki ide
+untuk memakai buku.</font>
 
 10
-00:02:28,044 --> 00:02:29,764
-<font color="#ffff00">Gua orangnya cukup masuk akal.</font>
+00:01:27,000 --> 00:01:30,791
+<font color="#ffff00">Kalau ada yang ingin kau katakan
+pada kami, gunakanlah ini, ya?</font>
 
 11
-00:02:30,134 --> 00:02:32,432
-<font color="#ffff00">Sama kayak lo, gua juga punya ambisi.</font>
+00:01:34,083 --> 00:01:36,083
+<font color="#ffff00">Semuanya, terima kasih banyak.</font>
 
 12
-00:02:34,009 --> 00:02:35,642
-<font color="#ffff00">Tapi di dunia kita ini...</font>
+00:01:36,750 --> 00:01:37,958
+<font color="#ffff00">Ayo, ambillah.</font>
 
 13
-00:02:35,667 --> 00:02:37,964
-<font color="#ffff00">...kita harus maju
-langkah demi langkah.</font>
+00:01:40,666 --> 00:01:42,791
+<font color="#ffff00">Ayolah, kau sedang melihat apa?</font>
 
 14
-00:02:39,321 --> 00:02:40,675
-<font color="#ffff00">Dan lo seharusnya...</font>
+00:01:48,458 --> 00:01:51,416
+<font color="#ffff00">Itu prosesi pemakaman Gin Goto.</font>
 
 15
-00:02:40,700 --> 00:02:44,522
-<font color="#ffff00">...masih jauh di bawah sana
-untuk bisa ketemu sama gua sekarang...</font>
+00:01:52,000 --> 00:01:53,000
+<font color="#ffff00">Begitu rupanya...</font>
 
 16
-00:02:44,547 --> 00:02:45,484
-<font color="#ffff00">...di sini..</font>
+00:01:53,416 --> 00:01:56,500
+<font color="#ffff00">Pasti terlihat ganjil bagi orang luar.</font>
 
 17
-00:02:48,501 --> 00:02:50,564
-<font color="#ffff00">- Bangun yang bakal...
-- Bangun udah tua...</font>
+00:01:56,958 --> 00:01:57,958
+<font color="#ffff00">Di desa ini,</font>
 
 18
-00:02:56,079 --> 00:02:57,324
-<font color="#ffff00">Dia abis ini ancur.</font>
+00:01:58,041 --> 00:02:03,041
+<font color="#ffff00">yang berkabung harus menutupi kepala
+dengan tudung</font>
 
 19
-00:03:01,673 --> 00:03:03,004
-<font color="#ffff00">Lo gua kasih kesempatan.</font>
+00:02:03,125 --> 00:02:05,166
+<font color="#ffff00">dan menyembunyikan wajah mereka.</font>
 
 20
-00:03:03,532 --> 00:03:04,644
-<font color="#ffff00">Lo pilih dia.</font>
+00:02:08,083 --> 00:02:09,916
+<font color="#ffff00">Kelas akan segera dimulai.</font>
 
 21
-00:03:11,564 --> 00:03:12,684
-<font color="#ffff00">Jadi...</font>
+00:02:10,000 --> 00:02:11,666
+<font color="#ffff00">Baiklah, Anak-Anak! Ayo masuk kelas!</font>
 
 22
-00:03:13,719 --> 00:03:15,804
-<font color="#ffff00">Kita balik lagi ke soal ambisi...</font>
+00:02:12,666 --> 00:02:13,958
+<font color="#ffff00">Mashiro, ayo kita pergi.</font>
 
 23
-00:03:17,684 --> 00:03:18,684
-<font color="#ffff00">...batasan.</font>
+00:02:14,041 --> 00:02:15,041
+<font color="#ffff00">Sampai nanti.</font>
 
 24
-00:03:20,224 --> 00:03:21,124
-<font color="#ffff00">Jo...</font>
+00:02:21,500 --> 00:02:24,250
+<font color="#ffff00">Kau lihat? Buku percakapan.</font>
 
 25
-00:03:21,484 --> 00:03:22,402
-<font color="#ffff00">...Bejo!</font>
+00:02:24,333 --> 00:02:25,333
+<font color="#ffff00">Ya.</font>
 
 26
-00:03:22,427 --> 00:03:24,284
-<font color="#ffff00">- Nggak kayak gini, Jo...
-- Gua udah bilang.</font>
+00:02:26,416 --> 00:02:28,333
+<font color="#ffff00">Aku lega mereka anak-anak yang baik.</font>
 
 27
-00:03:25,004 --> 00:03:26,222
-<font color="#ffff00">Jangan khawatir.</font>
+00:02:29,166 --> 00:02:30,166
+<font color="#ffff00">Benar.</font>
 
 28
-00:03:26,279 --> 00:03:27,497
-<font color="#ffff00">Nggak, enggak!</font>
+00:02:39,708 --> 00:02:40,708
+<font color="#ffff00">Berhenti.</font>
 
 29
-00:03:27,571 --> 00:03:28,564
-<font color="#ffff00">Jo, jangan, Jo!</font>
+00:02:48,791 --> 00:02:50,000
+<font color="#ffff00">Ada apa, Keisuke?</font>
 
 30
-00:04:08,391 --> 00:04:09,604
-<font color="#ffff00">Kamu hubungi saya?</font>
+00:02:53,791 --> 00:02:57,541
+<font color="#ffff00">Seharusnya hanya ada 15 orang
+termasuk aku di sini...</font>
 
 31
-00:04:10,324 --> 00:04:11,404
-<font color="#ffff00">Rama.</font>
+00:03:00,791 --> 00:03:02,000
+<font color="#ffff00">Kita kelebihan satu orang.</font>
 
 32
-00:04:13,227 --> 00:04:14,789
-<font color="#ffff00">Saya tahu siapa kamu.</font>
+00:03:04,291 --> 00:03:05,458
+<font color="#ffff00">Semuanya, perlihatkan wajah.</font>
 
 33
-00:04:15,618 --> 00:04:18,675
-<font color="#ffff00">Abang saya bilang
-saya bisa percaya Bapak.</font>
+00:03:15,291 --> 00:03:16,458
+<font color="#ffff00">Siapa kau?</font>
 
 34
-00:04:19,774 --> 00:04:21,164
-<font color="#ffff00">Abang lo nggak salah.</font>
+00:03:18,583 --> 00:03:20,500
+<font color="#ffff00">Ini tidak lucu.</font>
 
 35
-00:04:25,044 --> 00:04:26,244
-<font color="#ffff00">Kamu luka parah?</font>
+00:03:22,333 --> 00:03:23,750
+<font color="#ffff00">Tunjukkan wajahmu sekarang juga.</font>
 
 36
-00:04:30,102 --> 00:04:31,133
-<font color="#ffff00">Iya, Pak.</font>
+00:03:23,833 --> 00:03:26,166
+<font color="#ffff00">- Hei! Tunggu!
+- Hei!</font>
 
 37
-00:04:34,407 --> 00:04:35,884
-<font color="#ffff00">Bawa dia buat dirawat.</font>
+00:03:30,208 --> 00:03:32,208
+<font color="#ffff00">Ada apa? Apa mereka bertengkar?</font>
 
 38
-00:04:43,993 --> 00:04:45,084
-<font color="#ffff00">Hati-hati.</font>
+00:03:36,666 --> 00:03:38,875
+<font color="#ffff00">- Pulanglah duluan.
+- Baiklah.</font>
 
 39
-00:05:12,122 --> 00:05:14,842
-<font color="#ffff00">Hei! Jangan! Hei!</font>
+00:03:40,333 --> 00:03:41,333
+<font color="#ffff00">Kemari kau!</font>
 
 40
-00:05:14,867 --> 00:05:16,724
-<font color="#ffff00">Hei! Jangan! Hei!</font>
+00:03:45,375 --> 00:03:46,708
+<font color="#ffff00">Diam!</font>
 
 41
-00:05:22,856 --> 00:05:23,924
-<font color="#ffff00">Apa-apaan ini?</font>
+00:03:50,166 --> 00:03:51,666
+<font color="#ffff00">Kau sudah melupakanku?</font>
 
 42
-00:05:23,949 --> 00:05:26,762
-<font color="#ffff00">Nggak apa-apa. Kamu tenang aja.</font>
+00:03:52,875 --> 00:03:53,875
+<font color="#ffff00">Keisuke.</font>
 
 43
-00:05:26,787 --> 00:05:29,084
-<font color="#ffff00">Duduk.</font>
+00:03:56,166 --> 00:03:57,250
+<font color="#ffff00">Sumire?</font>
 
 44
-00:05:44,020 --> 00:05:46,849
-<font color="#ffff00">Sita jaket, sarung tangan,
-sama seragamnya.</font>
+00:04:08,458 --> 00:04:11,166
+<font color="#ffff00">Hanya anggota keluarga Goto
+yang boleh ikut prosesi.</font>
 
 45
-00:05:46,874 --> 00:05:48,724
-<font color="#ffff00">Dan buang dia jauh-jauh dari sini.</font>
+00:04:11,333 --> 00:04:13,125
+<font color="#ffff00">Kau tahu itu.</font>
 
 46
-00:05:49,622 --> 00:05:52,315
-<font color="#ffff00">Mayatnya akan mengapung pagi-pagi
-jauh dari sini.</font>
+00:04:13,541 --> 00:04:14,958
+<font color="#ffff00">Apa yang kau inginkan sekarang?</font>
 
 47
-00:05:52,604 --> 00:05:53,684
-<font color="#ffff00">Baik, Pak.</font>
+00:04:15,875 --> 00:04:17,000
+<font color="#ffff00">Sekarang?</font>
 
 48
-00:05:56,285 --> 00:05:57,485
-<font color="#ffff00">Percaya sama saya.</font>
+00:04:17,125 --> 00:04:19,125
+<font color="#ffff00">Benar. Kau meninggalkan desa.</font>
 
 49
-00:05:58,364 --> 00:06:00,186
-<font color="#ffff00">Dia nggak akan bisa hidup sampai besok.</font>
+00:04:19,208 --> 00:04:20,375
+<font color="#ffff00">Itu karena kalian.</font>
 
 50
-00:06:02,172 --> 00:06:05,532
-<font color="#ffff00">Dengan begini, dia nggak sempat
-membocorkan apa-apa tentang lo.</font>
+00:04:20,458 --> 00:04:22,708
+<font color="#ffff00">Apa? Apa maksudmu?</font>
 
 51
-00:06:06,324 --> 00:06:07,425
-<font color="#ffff00">Tentang kita.</font>
+00:04:22,791 --> 00:04:24,708
+<font color="#ffff00">Pergi dari sini.</font>
 
 52
-00:06:09,164 --> 00:06:10,122
-<font color="#ffff00">Kita?</font>
+00:04:25,375 --> 00:04:26,375
+<font color="#ffff00">Keisuke.</font>
 
 53
-00:06:10,164 --> 00:06:14,269
-<font color="#ffff00">Unitku tugasnya untuk melacak
-bangsat-bangsat yang korup seperti ini.</font>
+00:04:27,333 --> 00:04:29,166
+<font color="#ffff00">Kau tahu di mana ayahku berada, bukan?</font>
 
 54
-00:06:14,964 --> 00:06:18,844
-<font color="#ffff00">Dan gua pengen lo bantu
-untuk melacak yang lebih banyak lagi.</font>
-
-55
-00:06:19,934 --> 00:06:21,444
-<font color="#ffff00">Divisi kita memang kecil.</font>
-
-56
-00:06:22,083 --> 00:06:25,099
-<font color="#ffff00">Tapi ada alasannya kenapa kecil.
-Kepercayaan.</font>
-
-57
-00:06:26,653 --> 00:06:28,082
-<font color="#ffff00">Kita punya bukti.</font>
-
-58
-00:06:28,107 --> 00:06:30,267
-<font color="#ffff00">Kita bisa ke sidang. Saya bisa jadi saksi!</font>
-
-59
-00:06:31,044 --> 00:06:34,484
-<font color="#ffff00">Lo cuma mendengar kabar angin,
-dan sebuah kotak yang isinya kaset.</font>
-
-60
-00:06:35,309 --> 00:06:38,324
-<font color="#ffff00">Nah, gua udah hapal yang beginian.</font>
-
-61
-00:06:38,825 --> 00:06:42,552
-<font color="#ffff00">Dan akhirnya kita cuma menemukan
-cecunguk-cecunguk kayak dia ini.</font>
-
-62
-00:06:43,686 --> 00:06:46,484
-<font color="#ffff00">Nah, kalau kita mau
-membersihkan kota ini dengan bersih...</font>
-
-63
-00:06:47,404 --> 00:06:48,804
-<font color="#ffff00">...kita harus tangkap mereka.</font>
-
-64
-00:06:48,956 --> 00:06:50,436
-<font color="#ffff00">Nama-nama yang penting.</font>
-
-65
-00:06:52,559 --> 00:06:54,844
-<font color="#ffff00">Lo suka atau tidak suka
-dengan peristiwa hari ini...</font>
-
-66
-00:06:54,869 --> 00:06:56,362
-<font color="#ffff00">...mereka akan ngejar lo.</font>
-
-67
-00:06:56,387 --> 00:06:58,564
-<font color="#ffff00">Mereka akan ngejar lo sampai ketemu.</font>
-
-68
-00:06:58,828 --> 00:07:00,706
-<font color="#ffff00">Kalo kita nggak cepat bertindak...</font>
-
-69
-00:07:01,124 --> 00:07:02,284
-<font color="#ffff00">...lo bakal hilang.</font>
-
-70
-00:07:03,255 --> 00:07:04,444
-<font color="#ffff00">Keluarga lo juga.</font>
-
-71
-00:07:10,216 --> 00:07:11,604
-<font color="#ffff00">Tapi nggak harus seperti itu.</font>
-
-72
-00:07:12,489 --> 00:07:15,278
-<font color="#ffff00">Kalo kita diam-diam aja,
-kalo lo nggak buka mulut...</font>
-
-73
-00:07:15,303 --> 00:07:18,810
-<font color="#ffff00">...sampai semua ini bisa dibersihkan,
-gua bisa lindungi lo.</font>
-
-74
-00:07:19,856 --> 00:07:22,284
-<font color="#ffff00">Peristiwa hari ini,
-lo nggak pernah ada.</font>
-
-75
-00:07:22,309 --> 00:07:24,347
-<font color="#ffff00"><i>Lo tidak pernah ada di tempat.</i></font>
-
-76
-00:07:25,091 --> 00:07:27,682
-<font color="#ffff00"><i>Bagi mereka, lo cuma anak ingusan.</i></font>
-
-77
-00:07:28,164 --> 00:07:31,204
-<font color="#ffff00"><i>Mereka juga tidak akan sadar kalau</i>
-<i>satu nama hilang dari laporan.</i></font>
-
-78
-00:07:41,450 --> 00:07:42,884
-<font color="#ffff00">Ini udah semua?</font>
-
-79
-00:07:43,700 --> 00:07:44,884
-<font color="#ffff00">18 orang.</font>
-
-80
-00:07:46,356 --> 00:07:47,604
-<font color="#ffff00">Nggak ada yang selamat.</font>
-
-81
-00:08:00,169 --> 00:08:01,484
-<font color="#ffff00">Rencanamu apa?</font>
-
-82
-00:08:04,724 --> 00:08:05,844
-<font color="#ffff00">Reza.</font>
-
-83
-00:08:10,794 --> 00:08:12,044
-<font color="#ffff00">Kita akan cari terus.</font>
-
-84
-00:08:13,309 --> 00:08:14,884
-<font color="#ffff00">Gua akan beresin semua.</font>
-
-85
-00:08:16,324 --> 00:08:17,244
-<font color="#ffff00">Harus.</font>
-
-86
-00:08:31,404 --> 00:08:32,404
-<font color="#ffff00">Mau Bapak apa?</font>
-
-87
-00:08:34,964 --> 00:08:36,924
-<font color="#ffff00">Gua mau lo gabung sama tim gua.</font>
-
-88
-00:08:37,964 --> 00:08:42,322
-<font color="#ffff00">Lo bakal dilatih ulang sampai lo
-punya kemampuan yang lebih baik.</font>
-
-89
-00:08:42,604 --> 00:08:45,944
-<font color="#ffff00">Untuk membela kepentingan yang benar.</font>
-
-90
-00:08:47,164 --> 00:08:48,184
-<font color="#ffff00">Bagaimana?</font>
-
-91
-00:08:51,724 --> 00:08:54,195
-<font color="#ffff00">Nggak, saya nggak tertarik.</font>
-
-92
-00:08:55,044 --> 00:08:56,124
-<font color="#ffff00">Coba kamu ulangi?</font>
-
-93
-00:08:56,565 --> 00:08:57,565
-<font color="#ffff00">Pak...</font>
-
-94
-00:08:57,927 --> 00:09:01,505
-<font color="#ffff00">...tanpa mengurangi rasa hormat,
-saya bawa dia ke sini untuk ditahan.</font>
-
-95
-00:09:01,567 --> 00:09:03,034
-<font color="#ffff00">Supaya dia ditindak hukum!</font>
-
-96
-00:09:03,076 --> 00:09:05,236
-<font color="#ffff00">Dan dia kita bunuh supaya lo yang hidup!</font>
-
-97
-00:09:06,204 --> 00:09:08,934
-<font color="#ffff00">Di dunia ini nggak ada perang bersih.
-Buka mata kamu!</font>
-
-98
-00:09:08,959 --> 00:09:11,564
-<font color="#ffff00">Udah cukup banyak yang bikin
-mata saya kebuka, Pak!</font>
-
-99
-00:09:12,005 --> 00:09:13,684
-<font color="#ffff00">Yah, mungkin tujuan kita sama...</font>
-
-100
-00:09:16,100 --> 00:09:18,340
-<font color="#ffff00">...tapi saya nggak mau ikutin Bapak
-untuk ke sana.</font>
-
-101
-00:10:09,700 --> 00:10:10,844
-<font color="#ffff00">Siapa yang bunuh dia?</font>
-
-102
-00:10:12,388 --> 00:10:13,381
-<font color="#ffff00">Abang gua.</font>
-
-103
-00:10:14,255 --> 00:10:15,364
-<font color="#ffff00">Namanya Bejo.</font>
-
-104
-00:10:16,106 --> 00:10:18,033
-<font color="#ffff00">Sudah lumayan lama namanya naik.</font>
-
-105
-00:10:19,124 --> 00:10:20,364
-<font color="#ffff00">Gua tahu namanya.</font>
-
-106
-00:10:21,442 --> 00:10:22,404
-<font color="#ffff00">Rama...</font>
-
-107
-00:10:24,349 --> 00:10:26,762
-<font color="#ffff00">Abang lo memang
-punya banyak musuh gede.</font>
-
-108
-00:10:26,787 --> 00:10:30,427
-<font color="#ffff00">Tapi mereka tidak ada apa-apanya dibanding
-dengan siapa yang bakal ngincer lo.</font>
-
-109
-00:10:31,230 --> 00:10:33,468
-<font color="#ffff00">Gua bisa melindungi anak dan istri lo.</font>
-
-110
-00:10:33,716 --> 00:10:36,564
-<font color="#ffff00">Membuat mereka aman di luar jangkauan.
-Tapi gua butuh lo.</font>
-
-111
-00:10:37,604 --> 00:10:38,604
-<font color="#ffff00">Sekarang ini...</font>
-
-112
-00:10:39,148 --> 00:10:40,308
-<font color="#ffff00">...kota dibagi rata.</font>
-
-113
-00:10:41,294 --> 00:10:43,442
-<font color="#ffff00">Antara tokoh kita, Bangun...</font>
-
-114
-00:10:43,467 --> 00:10:45,227
-<font color="#ffff00">...dan Goto-kumi keluarga Jepang.</font>
-
-115
-00:10:47,302 --> 00:10:49,884
-<font color="#ffff00">Tama tugasnya menyogok semua orang.</font>
-
-116
-00:10:50,172 --> 00:10:52,812
-<font color="#ffff00">Dan polisi dibayar di kantor Tama
-supaya nggak ada yang tahu.</font>
-
-117
-00:10:53,364 --> 00:10:55,884
-<font color="#ffff00">Nah, kalo kau bisa mendekati Bangun...</font>
-
-118
-00:10:56,630 --> 00:10:59,444
-<font color="#ffff00">...saya yakin kita pasti bisa menangkap
-bajingan-bajingan itu.</font>
-
-119
-00:11:00,084 --> 00:11:01,084
-<font color="#ffff00">Rama.</font>
-
-120
-00:11:03,364 --> 00:11:06,164
-<font color="#ffff00">Supaya ini segera tuntas,
-gua hanya butuh nama-nama.</font>
-
-121
-00:11:06,747 --> 00:11:10,804
-<font color="#ffff00">Gua butuh bukti kalau Reza
-punya koneksi sama Bangun.</font>
-
-122
-00:11:14,221 --> 00:11:15,322
-<font color="#ffff00">Terus gimana?</font>
-
-123
-00:11:16,470 --> 00:11:18,070
-<font color="#ffff00">Uco, anaknya Bangun.</font>
-
-124
-00:11:18,470 --> 00:11:19,793
-<font color="#ffff00">Sekarang ada di penjara.</font>
-
-125
-00:11:21,614 --> 00:11:24,275
-<font color="#ffff00">Ini saat yang tepat buat lo masuk.
-Lo dekatin dulu.</font>
-
-126
-00:11:27,230 --> 00:11:28,230
-<font color="#ffff00">Artinya?</font>
-
-127
-00:11:29,333 --> 00:11:30,564
-<font color="#ffff00">Lo harus gua tangkap.</font>
-
-128
-00:11:33,974 --> 00:11:35,324
-<font color="#ffff00">Cuma beberapa bulan.</font>
-
-129
-00:11:38,567 --> 00:11:40,404
-<font color="#ffff00">Kamu nggak boleh tahu
-aku ada di mana.</font>
-
-130
-00:11:43,153 --> 00:11:46,404
-<font color="#ffff00">Dan aku nggak boleh
-dekat kamu, atau Angga.</font>
-
-131
-00:11:49,380 --> 00:11:50,700
-<font color="#ffff00">Kalau nggak begini...</font>
-
-132
-00:11:51,325 --> 00:11:52,916
-<font color="#ffff00">...aku nggak bisa melindungi kita.</font>
-
-133
-00:11:54,812 --> 00:11:56,252
-<font color="#ffff00">Kamu tolong ngerti, ya.</font>
-
-134
-00:11:58,597 --> 00:11:59,917
-<font color="#ffff00">Nggak ada pilihan lain.</font>
-
-135
-00:12:01,957 --> 00:12:03,717
-<font color="#ffff00"><i>Itu anak udah keluar</i>
-<i>dari rumah sakit, kan?</i></font>
-
-136
-00:12:04,124 --> 00:12:05,684
-<font color="#ffff00"><i>Gua denger dia dikeluarin.</i></font>
-
-137
-00:12:06,528 --> 00:12:07,708
-<font color="#ffff00">Tutup mulut lo!</font>
-
-138
-00:12:09,067 --> 00:12:10,856
-<font color="#ffff00">Lo di sini cuma ngangguk doang.</font>
-
-139
-00:12:11,693 --> 00:12:13,874
-<font color="#ffff00">Iya atau nggak. Ngerti?</font>
-
-140
-00:12:32,677 --> 00:12:33,671
-<font color="#ffff00">Salah apa dia?</font>
-
-141
-00:12:35,489 --> 00:12:36,425
-<font color="#ffff00">Salah apa dia?</font>
-
-142
-00:12:38,156 --> 00:12:39,196
-<font color="#ffff00">Cukup banyak.</font>
-
-143
-00:12:41,829 --> 00:12:43,189
-<font color="#ffff00">Gua butuh tahu lebih banyak.</font>
-
-144
-00:12:44,077 --> 00:12:46,317
-<font color="#ffff00">Dia anak bangsat politikus bangsat.</font>
-
-145
-00:12:47,017 --> 00:12:49,084
-<font color="#ffff00">Memangnya gua nggak bisa
-langsung ditangkap?</font>
-
-146
-00:12:49,536 --> 00:12:51,002
-<font color="#ffff00">Kenapa gua mesti mukulin dia dulu?</font>
-
-147
-00:12:51,027 --> 00:12:53,867
-<font color="#ffff00">Bapaknya anak ini alasannya
-kenapa Uco masuk penjara.</font>
-
-148
-00:12:54,618 --> 00:12:56,325
-<font color="#ffff00">Dan kalau lo punya reputasi...</font>
-
-149
-00:12:57,123 --> 00:12:59,070
-<font color="#ffff00">...ini akan menjadi perhatian Uco ke lo.</font>
-
-150
-00:12:59,660 --> 00:13:02,740
-<font color="#ffff00">Paling nggak, lo punya bahan
-untuk ngobrol sama dia.</font>
-
-151
-00:13:04,233 --> 00:13:05,700
-<font color="#ffff00">Kalo lo mau gua hajar dia...</font>
-
-152
-00:13:06,251 --> 00:13:07,598
-<font color="#ffff00">...bener-bener gua hajar...</font>
-
-153
-00:13:08,253 --> 00:13:09,575
-<font color="#ffff00">...gua butuh alasan lebih kuat.</font>
-
-154
-00:13:12,459 --> 00:13:16,326
-<font color="#ffff00">Dia itu salah satu
-pemasok dana terbesar...</font>
-
-155
-00:13:17,691 --> 00:13:18,638
-<font color="#ffff00">...buat Bejo.</font>
-
-156
-00:13:25,162 --> 00:13:26,458
-<font color="#ffff00">Hei, Rama, dengar.</font>
-
-157
-00:13:27,548 --> 00:13:30,114
-<font color="#ffff00">Cederai dia cukup parah
-supaya lo ditangkap...</font>
-
-158
-00:13:30,139 --> 00:13:33,644
-<font color="#ffff00">...tapi jangan terlalu parah
-supaya lo nggak ditangkap mati.</font>
-
-159
-00:13:38,897 --> 00:13:39,817
-<font color="#ffff00">Dia di mana?</font>
-
-160
-00:18:38,281 --> 00:18:40,963
-<font color="#ffff00">Gua denger kemarin lo ketemu Benny
-sama anak-anak?</font>
-
-161
-00:18:41,729 --> 00:18:42,796
-<font color="#ffff00">Benny yang mana?</font>
-
-162
-00:18:44,257 --> 00:18:45,324
-<font color="#ffff00">Tuh.</font>
-
-163
-00:18:49,808 --> 00:18:52,035
-<font color="#ffff00">Selama gua di sini, mereka di bawah gua.</font>
-
-164
-00:18:52,768 --> 00:18:55,030
-<font color="#ffff00">Oh, ya? Lo siapa?</font>
-
-165
-00:18:58,211 --> 00:18:59,883
-<font color="#ffff00">Nanti lo juga akan tahu sendiri.</font>
-
-166
-00:19:00,148 --> 00:19:03,180
-<font color="#ffff00">Dan begitu lo tahu, mungkin lo akan
-belajar untuk rada jaga mulut lo.</font>
-
-167
-00:19:04,789 --> 00:19:06,531
-<font color="#ffff00">Tapi kalau untuk sekarang ini,
-masih santai.</font>
-
-168
-00:19:11,595 --> 00:19:12,727
-<font color="#ffff00">Maksudnya apaan?</font>
-
-169
-00:19:14,117 --> 00:19:15,324
-<font color="#ffff00">Mau gua minta maaf?</font>
-
-170
-00:19:16,090 --> 00:19:17,157
-<font color="#ffff00">Ini?</font>
-
-171
-00:19:18,562 --> 00:19:19,814
-<font color="#ffff00">Ini buat jaga-jaga.</font>
-
-172
-00:19:21,234 --> 00:19:24,164
-<font color="#ffff00">Di tempat ini, lo nggak pernah tahu siapa
-yang akan serang lo dari belakang.</font>
-
-173
-00:19:24,937 --> 00:19:25,844
-<font color="#ffff00">Apalagi lo.</font>
-
-174
-00:19:26,538 --> 00:19:28,164
-<font color="#ffff00">Habis "pertunjukan" lo kemaren.</font>
-
-175
-00:19:31,116 --> 00:19:33,680
-<font color="#ffff00">Gua orang yang bisa ngasih lo
-perlindungan di dalam sini.</font>
-
-176
-00:19:33,785 --> 00:19:35,969
-<font color="#ffff00">Gua bisa ngejagain lo
-di semua bagian penjara.</font>
-
-177
-00:19:35,994 --> 00:19:37,724
-<font color="#ffff00">Lo bilang nggak kenal gua nggak apa-apa.</font>
-
-178
-00:19:38,344 --> 00:19:40,391
-<font color="#ffff00">Nanti lo akan ngerti sendiri
-bahwa gua nggak main-main.</font>
-
-179
-00:19:41,266 --> 00:19:44,684
-<font color="#ffff00">Kalau lo gabung sama kita,
-kita bisa nguasain sayap penjara.</font>
-
-180
-00:19:46,108 --> 00:19:47,765
-<font color="#ffff00">Orang seperti lo pasti kepakai di kita.</font>
-
-181
-00:19:51,117 --> 00:19:52,204
-<font color="#ffff00">Lo kasih tawaran yang...</font>
-
-182
-00:19:52,229 --> 00:19:54,484
-<font color="#ffff00">Asal lo tahu aja ya,
-gua nggak suka penolakan.</font>
-
-183
-00:19:56,859 --> 00:19:58,324
-<font color="#ffff00">Bukannya gua kurang ajar...</font>
-
-184
-00:19:58,801 --> 00:20:01,297
-<font color="#ffff00">...gua nggak mau ngabisin waktu
-untuk petantang-petenteng di toilet.</font>
-
-185
-00:20:02,680 --> 00:20:04,644
-<font color="#ffff00">- Permisi.
-- Dengerin gua.</font>
-
-186
-00:20:06,297 --> 00:20:08,758
-<font color="#ffff00">Di dalam sini mendingan lo cari bantuan.</font>
-
-187
-00:20:09,133 --> 00:20:12,005
-<font color="#ffff00">Kalau bergerak sendirian,
-lo nggak pernah bertahan lama di sini.</font>
-
-188
-00:20:13,538 --> 00:20:14,525
-<font color="#ffff00">Pastinya.</font>
-
-189
-00:20:50,250 --> 00:20:52,404
-<font color="#ffff00">Kata sipir rombongan lo
-lumayan di sini, Co.</font>
-
-190
-00:20:53,703 --> 00:20:55,244
-<font color="#ffff00">Gua cari siapa aja yang mau.</font>
-
-191
-00:20:56,000 --> 00:20:58,404
-<font color="#ffff00">Gua lagi usahain anak-anak masuk
-buat jagain lo di sini.</font>
-
-192
-00:20:59,097 --> 00:21:01,615
-<font color="#ffff00">Tapi sementara waktu
-lo mesti low profile.</font>
-
-193
-00:21:01,640 --> 00:21:03,187
-<font color="#ffff00">Jangan percaya siapa-siapa di sini.</font>
-
-194
-00:21:03,777 --> 00:21:04,754
-<font color="#ffff00">Low profile?</font>
-
-195
-00:21:05,556 --> 00:21:06,847
-<font color="#ffff00">Gua ini anak bokap.</font>
-
-196
-00:21:07,292 --> 00:21:09,532
-<font color="#ffff00">Itu aja udah bikin gua
-jadi target berjalan di sini.</font>
-
-197
-00:21:09,993 --> 00:21:12,940
-<font color="#ffff00">Gua cuma bisa manfaatin pamornya bokap
-untuk melindungi diri gua.</font>
-
-198
-00:21:13,838 --> 00:21:16,278
-<font color="#ffff00">Tugas lo untuk ngejagain jangan sampai
-gua dibacok di dalam sini.</font>
-
-199
-00:21:16,731 --> 00:21:19,766
-<font color="#ffff00">Tujuan gua akan jauh lebih gampang
-kalau lo nggak terus buat onar.</font>
-
-200
-00:21:19,791 --> 00:21:22,002
-<font color="#ffff00">Lo terakhir masuk penjara kapan sih, Ka?</font>
-
-201
-00:21:23,377 --> 00:21:25,884
-<font color="#ffff00">Gua nggak mungkin diam aja
-kalau nggak mau gegar otak seumur hidup...</font>
-
-202
-00:21:25,909 --> 00:21:27,907
-<font color="#ffff00">...dan disodokin sapu lidi
-ke dalam pantat gua.</font>
-
-203
-00:21:34,993 --> 00:21:37,780
-<font color="#ffff00">Daripada lo ceramahin gua terus,
-mending lo cari tahu siapa itu orang.</font>
-
-204
-00:21:38,996 --> 00:21:40,116
-<font color="#ffff00">Kenapa dia di sini?</font>
-
-205
-00:21:40,988 --> 00:21:41,908
-<font color="#ffff00">Dia?</font>
-
-206
-00:21:43,709 --> 00:21:46,469
-<font color="#ffff00">Dia bikin anaknya menteri favorit lo
-lumpuh di kelabnya Fuazan.</font>
-
-207
-00:21:47,897 --> 00:21:49,004
-<font color="#ffff00">Lumayan.</font>
-
-208
-00:21:49,370 --> 00:21:51,219
-<font color="#ffff00">Yuda namanya. Dari kampung.</font>
-
-209
-00:21:51,820 --> 00:21:53,242
-<font color="#ffff00">- Bukan siapa-siapa.
-- "Bukan siapa-siapa"...</font>
-
-210
-00:21:53,267 --> 00:21:54,594
-<font color="#ffff00">...tapi ngabisin 15 orang gua.</font>
-
-211
-00:21:54,619 --> 00:21:57,021
-<font color="#ffff00">Oh, ya dia bisa berantem,
-terus kenapa?</font>
-
-212
-00:21:57,046 --> 00:21:58,833
-<font color="#ffff00">Dia bersih, nggak ada hubungan
-sama keluarga lain.</font>
-
-213
-00:21:58,858 --> 00:22:00,176
-<font color="#ffff00">Nggak punya koneksi di luar.</font>
-
-214
-00:22:20,153 --> 00:22:21,300
-<font color="#ffff00">Siapa lo?</font>
-
-215
-00:22:23,026 --> 00:22:26,453
-<font color="#ffff00">Gua udah ngasih lima tahun reputasi gua
-supaya jelas asal-usul.</font>
-
-216
-00:22:27,732 --> 00:22:29,463
-<font color="#ffff00">Sejak lo masuk sini...</font>
-
-217
-00:22:29,521 --> 00:22:31,068
-<font color="#ffff00">...semua orang udah melototin lo.</font>
-
-218
-00:22:31,334 --> 00:22:32,652
-<font color="#ffff00">Nebak-nebak lo siapa.</font>
-
-219
-00:22:33,914 --> 00:22:35,741
-<font color="#ffff00">Tapi dengan gua duduk di sini...</font>
-
-220
-00:22:36,946 --> 00:22:39,093
-<font color="#ffff00">...gua udah berhasil
-bikin lo jadi seseorang.</font>
-
-221
-00:22:41,305 --> 00:22:43,252
-<font color="#ffff00">Lo bisa berterima kasih sama gua nanti.</font>
-
-222
-00:22:44,185 --> 00:22:45,972
-<font color="#ffff00">Oh ya, hukuman tiga tahun buat gua?</font>
-
-223
-00:22:46,014 --> 00:22:48,292
-<font color="#ffff00">Terus, gua harus bilang
-terima kasih ke siapa?</font>
-
-224
-00:22:50,453 --> 00:22:52,693
-<font color="#ffff00">Bunawar bilang gua bisa keluar
-dalam hitungan bulan...</font>
-
-225
-00:22:52,774 --> 00:22:53,852
-<font color="#ffff00">...bukan tahun.</font>
-
-226
-00:22:54,124 --> 00:22:57,244
-<font color="#ffff00">Lo pikir politikus anjing itu sudah puas
-dengan lo masuk penjara doang?</font>
-
-227
-00:22:57,886 --> 00:23:00,312
-<font color="#ffff00">Lo pikir dia anggap ini impas? Adil?</font>
-
-228
-00:23:00,540 --> 00:23:01,620
-<font color="#ffff00">Nggak.</font>
-
-229
-00:23:01,772 --> 00:23:05,412
-<font color="#ffff00">Lo udah ngincer anaknya.
-Masih untung dia nggak ngincer anak lo.</font>
-
-230
-00:23:09,023 --> 00:23:11,284
-<font color="#ffff00">Gua pengen lo ngomong
-sama Bunawar kalau...</font>
-
-231
-00:23:12,062 --> 00:23:15,484
-<font color="#ffff00">Gua ke sini cuma nyetor muka doang.
-Tugas gua udah selesai.</font>
-
-232
-00:23:15,509 --> 00:23:17,707
-<font color="#ffff00">Mulai sekarang, lo jalanin sendiri.</font>
-
-233
-00:23:19,882 --> 00:23:22,604
-<font color="#ffff00">Pasang badan terus, jangan sampai ngaco.</font>
-
-234
-00:23:22,843 --> 00:23:26,604
-<font color="#ffff00">Gua akan bergantung ke lo
-sama dengan lo bergantung ke gua.</font>
-
-235
-00:23:31,538 --> 00:23:32,604
-<font color="#ffff00">Itu nanti sembuh.</font>
-
-236
-00:31:48,289 --> 00:31:53,947
-<font color="#ffff00">DUA TAHUN KEMUDIAN</font>
-
-237
-00:31:55,418 --> 00:31:56,546
-<font color="#ffff00">Gimana rasanya?</font>
-
-238
-00:31:56,957 --> 00:31:57,997
-<font color="#ffff00">Beda.</font>
-
-239
-00:31:59,470 --> 00:32:01,324
-<font color="#ffff00">- Sini, gua bawain.
-- Nggak usah.</font>
-
-240
-00:32:01,657 --> 00:32:02,842
-<font color="#ffff00">Apaan ngga usah.</font>
-
-241
-00:32:02,867 --> 00:32:05,552
-<font color="#ffff00">Kalau gua parkirnya jauh,
-lo bawa aja sendiri.</font>
-
-242
-00:32:05,577 --> 00:32:07,564
-<font color="#ffff00">Kalau segini doang mah, gua bisa lah.</font>
-
-243
-00:32:08,324 --> 00:32:10,844
-<font color="#ffff00">- Bagus lo udah keluar.
-- Gua hutang budi sama lo, Co.</font>
-
-244
-00:32:11,177 --> 00:32:12,644
-<font color="#ffff00">Udah banyak bantu gua di dalam.</font>
-
-245
-00:32:13,257 --> 00:32:15,895
-<font color="#ffff00">Sampein ke bokap lo. Makasih banget.</font>
-
-246
-00:32:15,920 --> 00:32:17,404
-<font color="#ffff00">Lo sampein saja sendiri.</font>
-
-247
-00:32:18,017 --> 00:32:19,814
-<font color="#ffff00">Kita mau ke kantornya dia sekarang.</font>
-
-248
-00:32:19,839 --> 00:32:21,004
-<font color="#ffff00">Dia mau nyambut lo.</font>
-
-249
-00:32:21,579 --> 00:32:23,324
-<font color="#ffff00">- Nggak perlu.
-- Perlu.</font>
-
-250
-00:32:28,684 --> 00:32:29,724
-<font color="#ffff00">Oke?</font>
-
-251
-00:32:51,744 --> 00:32:53,244
-<font color="#ffff00">Kamu kenal pria bernama Bejo?</font>
-
-252
-00:32:55,595 --> 00:32:57,004
-<font color="#ffff00">Kedengarannya tak asing.</font>
-
-253
-00:32:57,877 --> 00:33:00,437
-<font color="#ffff00">Dia blasteran Arab,
-dapat reputasinya selepas dari geng Yudi.</font>
-
-254
-00:33:01,908 --> 00:33:03,604
-<font color="#ffff00">Tapi dia membuat ulah akhir-akhir ini.</font>
-
-255
-00:33:05,713 --> 00:33:08,191
-<font color="#ffff00">Memiliki beberapa restoran...</font>
-
-256
-00:33:08,216 --> 00:33:10,443
-<font color="#ffff00">...dan menangani
-masalah klien-klien papan atas.</font>
-
-257
-00:33:11,705 --> 00:33:13,612
-<font color="#ffff00">Tipe yang menurutku
-tidak suka jadi sorotan.</font>
-
-258
-00:33:16,860 --> 00:33:18,660
-<font color="#ffff00">Dulu dia pernah datang kepadaku...</font>
-
-259
-00:33:19,057 --> 00:33:21,364
-<font color="#ffff00">...meminta pinjaman
-untuk mendirikan usaha.</font>
-
-260
-00:33:23,649 --> 00:33:25,876
-<font color="#ffff00">Aku dapat rumor bahwa dia ingin
-memperluas wilayah operasinya.</font>
-
-261
-00:33:27,818 --> 00:33:28,845
-<font color="#ffff00">Di mana?</font>
-
-262
-00:33:29,457 --> 00:33:30,924
-<font color="#ffff00">Rumornya sampai situ saja.</font>
-
-263
-00:33:31,777 --> 00:33:33,644
-<font color="#ffff00">Tapi itu pasti salah satu wilayah kita.</font>
-
-264
-00:33:41,337 --> 00:33:42,484
-<font color="#ffff00">Ya, betul.</font>
-
-265
-00:33:42,931 --> 00:33:46,384
-<font color="#ffff00">Mohon maaf, Bapak.
-Bapak sedang tidak bisa diganggu.</font>
-
-266
-00:33:46,409 --> 00:33:47,547
-<font color="#ffff00">Terima kasih.</font>
-
-267
-00:33:48,072 --> 00:33:50,324
-<font color="#ffff00">- Bapak masih lama?
-- Sebentar lagi selesai.</font>
-
-268
-00:33:54,704 --> 00:33:55,811
-<font color="#ffff00">Maaf berantakan.</font>
-
-269
-00:34:01,371 --> 00:34:02,918
-<font color="#ffff00">Ini mungkin bukan masalah.</font>
-
-270
-00:34:03,509 --> 00:34:05,029
-<font color="#ffff00">Aku hanya ingin memberitahumu saja.</font>
-
-271
-00:34:05,993 --> 00:34:09,121
-<font color="#ffff00">Sementara, salah satu dari kita
-bisa mengurus orang seperti dia.</font>
-
-272
-00:34:11,251 --> 00:34:14,084
-<font color="#ffff00">Aku akan menyuruh anak buahku
-memantau situasi.</font>
-
-273
-00:34:14,291 --> 00:34:16,318
-<font color="#ffff00">Jika dia melewati batas,
-kami akan mengurusnya.</font>
-
-274
-00:34:17,057 --> 00:34:18,284
-<font color="#ffff00">Tidak perlu khawatir.</font>
-
-275
-00:34:18,645 --> 00:34:20,509
-<font color="#ffff00">Siapa bilang aku khawatir, Berengsek?</font>
-
-276
-00:34:22,267 --> 00:34:23,284
-<font color="#ffff00">Makasih.</font>
-
-277
-00:34:23,524 --> 00:34:25,404
-<font color="#ffff00">Harusnya "terima kasih."</font>
-
-278
-00:34:30,284 --> 00:34:31,444
-<font color="#ffff00">Goto-san.</font>
-
-279
-00:34:32,484 --> 00:34:34,004
-<font color="#ffff00">Ah, itu mereka.</font>
-
-280
-00:34:34,964 --> 00:34:36,004
-<font color="#ffff00">Pak Goto.</font>
-
-281
-00:34:42,119 --> 00:34:44,804
-<font color="#ffff00">Akhirnya ketemu juga di sini.</font>
-
-282
-00:34:44,846 --> 00:34:46,204
-<font color="#ffff00">Senang ketemu Bapak.</font>
-
-283
-00:34:47,284 --> 00:34:49,084
-<font color="#ffff00">Uco selalu berbicara hormat
-mengenai Bapak.</font>
-
-284
-00:34:49,126 --> 00:34:52,175
-<font color="#ffff00">Ya, sudah seharusnya begitu.</font>
-
-285
-00:34:52,364 --> 00:34:55,284
-<font color="#ffff00">Sebetulnya kita pengen sekali
-kamu bisa keluar lebih cepat. Ya.</font>
-
-286
-00:34:55,634 --> 00:34:57,283
-<font color="#ffff00">Tapi kamu salah pukul waktu itu.</font>
-
-287
-00:34:57,308 --> 00:35:00,027
-<font color="#ffff00">Jadi, bapaknya itu anak
-mempersulit kamu di sana.</font>
-
-288
-00:35:00,737 --> 00:35:01,798
-<font color="#ffff00">Nggak apa-apa.</font>
-
-289
-00:35:01,823 --> 00:35:03,720
-<font color="#ffff00">Sekarang kan sudah bebas.</font>
-
-290
-00:35:03,745 --> 00:35:06,855
-<font color="#ffff00">Sudah di luar.
-Jadi, kita bisa terusin semua.</font>
-
-291
-00:35:06,880 --> 00:35:08,387
-<font color="#ffff00">- Ya, Pak.
-- Oke.</font>
-
-292
-00:35:08,993 --> 00:35:10,060
-<font color="#ffff00">Sekarang buka bajunya.</font>
-
-293
-00:35:13,764 --> 00:35:14,678
-<font color="#ffff00">Maaf?</font>
-
-294
-00:35:16,017 --> 00:35:17,284
-<font color="#ffff00">Kamu dengar saya, kan?</font>
-
-295
-00:35:18,681 --> 00:35:21,135
-<font color="#ffff00">Nggak apa-apa, Yud, ikutin aja.</font>
-
-296
-00:35:21,324 --> 00:35:23,284
-<font color="#ffff00">Co, gua nggak mungkin,
-lo kan tahu gua..</font>
-
-297
-00:35:23,597 --> 00:35:24,497
-<font color="#ffff00">Hei.</font>
-
-298
-00:35:26,048 --> 00:35:27,717
-<font color="#ffff00">Saya bukannya nggak percaya sama kamu.</font>
-
-299
-00:35:28,470 --> 00:35:30,484
-<font color="#ffff00">Tapi saya nggak percaya sama siapa-siapa.</font>
-
-300
-00:35:31,095 --> 00:35:33,815
-<font color="#ffff00">Kalau masalah kamu
-cuma malu untuk buka baju...</font>
-
-301
-00:35:33,840 --> 00:35:36,027
-<font color="#ffff00">...di depan orang tua seperti saya...</font>
-
-302
-00:35:36,509 --> 00:35:37,804
-<font color="#ffff00">...artinya saya masih baik.</font>
-
-303
-00:35:39,164 --> 00:35:40,164
-<font color="#ffff00">Buka.</font>
-
-304
-00:36:10,822 --> 00:36:11,964
-<font color="#ffff00">Semuanya.</font>
-
-305
-00:36:27,962 --> 00:36:29,004
-<font color="#ffff00">Angkat tangan.</font>
-
-306
-00:36:35,017 --> 00:36:36,118
-<font color="#ffff00">Balik badan.</font>
-
-307
-00:36:46,337 --> 00:36:47,244
-<font color="#ffff00">Periksa.</font>
-
-308
-00:37:25,806 --> 00:37:26,884
-<font color="#ffff00">Aman.</font>
-
-309
-00:37:30,401 --> 00:37:31,388
-<font color="#ffff00">Balik sini.</font>
-
-310
-00:37:36,252 --> 00:37:38,652
-<font color="#ffff00">Bakar bajunya, buang. Kasih yang baru.</font>
-
-311
-00:37:39,299 --> 00:37:40,299
-<font color="#ffff00">Bakar!</font>
-
-312
-00:37:50,937 --> 00:37:52,244
-<font color="#ffff00">Sekarang, begini.</font>
-
-313
-00:37:53,634 --> 00:37:57,001
-<font color="#ffff00">Saya menghargai apa yang sudah
-kamu perbuat untuk anak saya.</font>
-
-314
-00:37:58,084 --> 00:37:59,724
-<font color="#ffff00">Saya nggak akan pernah lupa itu.</font>
-
-315
-00:38:00,906 --> 00:38:03,813
-<font color="#ffff00">Tapi bukan berarti kamu
-bisa seenak-enaknya di sini.</font>
-
-316
-00:38:05,922 --> 00:38:07,629
-<font color="#ffff00">Saya sudah bilang terima kasih.</font>
-
-317
-00:38:08,737 --> 00:38:11,324
-<font color="#ffff00">Untuk itu kamu akan diurus
-dengan baik di sini.</font>
-
-318
-00:38:12,977 --> 00:38:14,444
-<font color="#ffff00">Dalam pekerjaan...</font>
-
-319
-00:38:14,930 --> 00:38:16,837
-<font color="#ffff00">...kamu nggak lebih spesial
-dari yang lain.</font>
-
-320
-00:38:18,140 --> 00:38:20,860
-<font color="#ffff00">Kalau kamu gagal, kamu boleh keluar.</font>
-
-321
-00:38:22,140 --> 00:38:23,780
-<font color="#ffff00">Saya nggak akan ngecewain Bapak.</font>
-
-322
-00:38:29,642 --> 00:38:30,869
-<font color="#ffff00">Ini tempat tinggal lo sekarang.</font>
-
-323
-00:38:32,201 --> 00:38:33,668
-<font color="#ffff00">Semua yang lo butuh ada di sini.</font>
-
-324
-00:38:35,203 --> 00:38:36,390
-<font color="#ffff00">Kalau ada yang kurang...</font>
-
-325
-00:38:38,377 --> 00:38:39,724
-<font color="#ffff00">...lo tinggal telepon ke bawah.</font>
-
-326
-00:38:40,338 --> 00:38:41,325
-<font color="#ffff00">Makasih.</font>
-
-327
-00:38:41,724 --> 00:38:43,524
-<font color="#ffff00">Pak Bangun udah ngasih
-semua yang gua punya.</font>
-
-328
-00:38:44,004 --> 00:38:46,961
-<font color="#ffff00">Sama seperti apa yang sedang dia lakukan
-ke lo sekarang.</font>
-
-329
-00:38:48,617 --> 00:38:50,844
-<font color="#ffff00">Kalau gua lihat, kita berasal
-dari tempat yang sama.</font>
-
-330
-00:38:52,737 --> 00:38:54,804
-<font color="#ffff00">Semoga persamaan kita
-nggak cuma sampai di situ.</font>
-
-331
-00:38:56,533 --> 00:38:58,084
-<font color="#ffff00">Besok kita berangkat jam 8.</font>
-
-332
-00:39:01,001 --> 00:39:02,804
-<font color="#ffff00">Pastiin lo udah siap dari jam 7.</font>
-
-333
-00:40:33,156 --> 00:40:34,242
-<font color="#ffff00">Ini gua.</font>
-
-334
-00:40:34,267 --> 00:40:36,278
-<font color="#ffff00"><i>Hei. Kenapa lo tadi sempet hilang?</i></font>
-
-335
-00:40:36,484 --> 00:40:39,055
-<font color="#ffff00">Lo mau gua mampus?
-Hari pertama udah lo pasangin kabel?</font>
-
-336
-00:40:39,080 --> 00:40:40,065
-<font color="#ffff00">Udah gila lo?</font>
-
-337
-00:40:40,090 --> 00:40:42,415
-<font color="#ffff00"><i>Lo baru keluar dari penjara,</i>
-<i>mereka tidak akan curiga...</i></font>
-
-338
-00:40:42,447 --> 00:40:45,154
-<font color="#ffff00">Tetap aja gua digeledah.
-Baju gua dibakar.</font>
-
-339
-00:40:45,539 --> 00:40:46,724
-<font color="#ffff00"><i>Ketahuan?</i></font>
-
-340
-00:40:47,039 --> 00:40:49,444
-<font color="#ffff00">Kalau gua nggak cabut kabelnya,
-gua juga udah dibakar.</font>
-
-341
-00:40:49,469 --> 00:40:52,118
-<font color="#ffff00">Jangan main-main sama gua.
-Jangan ada lagi kejutan dari lo.</font>
-
-342
-00:40:52,143 --> 00:40:53,930
-<font color="#ffff00">Sekali lagi, gua cabut.</font>
-
-343
-00:40:55,000 --> 00:40:56,375
-<font color="#ffff00"><i>Lo di mana sekarang?</i></font>
-
-344
-00:40:56,469 --> 00:40:58,555
-<font color="#ffff00">Nggak. Gua nggak akan mungkin
-bilang sama lo...</font>
-
-345
-00:40:58,580 --> 00:41:00,227
-<font color="#ffff00">...dan jangan coba-coba
-ngelacak telepon gua.</font>
-
-346
-00:41:00,252 --> 00:41:02,690
-<font color="#ffff00">Gua nggak mau lo sama orang-orang lo
-ngedeketin tempat gua.</font>
-
-347
-00:41:02,977 --> 00:41:06,215
-<font color="#ffff00"><i>Tenang. Yang penting lo aman.</i>
-<i>Kalau kita...</i></font>
-
-348
-00:41:06,240 --> 00:41:08,838
-<font color="#ffff00">Gua serius. Gua hampir tewas tadi.</font>
-
-349
-00:41:08,863 --> 00:41:12,010
-<font color="#ffff00">Kalau Bangun curiga sedikit saja,
-gua bisa langsung dibunuh.</font>
-
-350
-00:41:13,258 --> 00:41:15,042
-<font color="#ffff00">Mulai sekarang, lo ikutin gua.</font>
-
-351
-00:41:15,067 --> 00:41:16,907
-<font color="#ffff00">Gua tinggalin sepatu di tempat biasa.</font>
-
-352
-00:41:17,516 --> 00:41:20,164
-<font color="#ffff00">Lo pasang alat pelacak,
-entar gua ambil lagi.</font>
-
-353
-00:41:20,766 --> 00:41:23,044
-<font color="#ffff00">Kalau udah nyala, berarti udah gua pakai.</font>
-
-354
-00:41:23,961 --> 00:41:25,924
-<font color="#ffff00"><i>Tunggu dulu, gua butuh waktu untuk...</i></font>
-
-355
-00:41:25,949 --> 00:41:27,227
-<font color="#ffff00">Kerjain aja.</font>
-
-356
-00:42:11,406 --> 00:42:14,444
-<font color="#ffff00">Angga, Mama nggak mau kamu nakal, ya!</font>
-
-357
-00:42:16,664 --> 00:42:17,629
-<font color="#ffff00">Halo?</font>
-
-358
-00:42:18,250 --> 00:42:19,277
-<font color="#ffff00">Halo?</font>
-
-359
-00:42:20,343 --> 00:42:21,324
-<font color="#ffff00"><i>Isa.</i></font>
-
-360
-00:42:22,457 --> 00:42:24,906
-<font color="#ffff00">Rama? Kamu di mana?</font>
-
-361
-00:42:24,931 --> 00:42:26,427
-<font color="#ffff00">Kamu baik-baik aja?</font>
-
-362
-00:42:27,697 --> 00:42:29,295
-<font color="#ffff00">Aku nggak apa-apa.</font>
-
-363
-00:42:29,320 --> 00:42:30,867
-<font color="#ffff00">Aku baik-baik aja.</font>
-
-364
-00:42:32,164 --> 00:42:33,244
-<font color="#ffff00">Isa...</font>
-
-365
-00:42:34,884 --> 00:42:36,404
-<font color="#ffff00">...semuanya udah terlanjur.</font>
-
-366
-00:42:37,179 --> 00:42:38,564
-<font color="#ffff00">Maafin aku.</font>
-
-367
-00:42:43,804 --> 00:42:44,924
-<font color="#ffff00">Kamu gimana?</font>
-
-368
-00:42:45,820 --> 00:42:47,404
-<font color="#ffff00"><i>Kita coba buat ngejalanin.</i></font>
-
-369
-00:42:53,857 --> 00:42:55,004
-<font color="#ffff00">Itu Angga?</font>
-
-370
-00:42:55,617 --> 00:42:56,764
-<font color="#ffff00"><i>Iya.</i></font>
-
-371
-00:42:59,789 --> 00:43:01,484
-<font color="#ffff00">Tolong, aku pengen dengerin suaranya.</font>
-
-372
-00:43:02,320 --> 00:43:04,924
-<font color="#ffff00">Nggak usah kasih teleponnya,
-aku cuma pengen dengerin suaranya.</font>
-
-373
-00:43:05,377 --> 00:43:06,524
-<font color="#ffff00">Tolong.</font>
-
-374
-00:43:06,796 --> 00:43:07,844
-<font color="#ffff00">Iya.</font>
-
-375
-00:43:40,021 --> 00:43:41,175
-<font color="#ffff00">Makasih.</font>
-
-376
-00:43:41,818 --> 00:43:42,924
-<font color="#ffff00"><i>Iya.</i></font>
-
-377
-00:44:00,451 --> 00:44:01,844
-<font color="#ffff00">Pasang mata. Pasang kuping.</font>
-
-378
-00:44:02,615 --> 00:44:05,444
-<font color="#ffff00">Sama orang-orang kayak gini, lo nggak akan
-pernah tahu ujungnya bakal kayak gimana.</font>
-
-379
-00:44:06,326 --> 00:44:08,815
-<font color="#ffff00">Kita masuk terus salaman,
-atau masuk langsung main kasar.</font>
-
-380
-00:44:09,244 --> 00:44:10,484
-<font color="#ffff00">Hasilnya sama aja.</font>
-
-381
-00:44:10,817 --> 00:44:14,204
-<font color="#ffff00">Mereka nggak ada yang pakai aturan,
-nggak ada yang pakai otak.</font>
-
-382
-00:44:14,974 --> 00:44:17,524
-<font color="#ffff00">Lo lihat aja tempat kerjanya,
-banyak kencing di mana-mana.</font>
-
-383
-00:44:17,732 --> 00:44:20,015
-<font color="#ffff00">Fokus. Jangan lengah.</font>
-
-384
-00:44:20,040 --> 00:44:21,147
-<font color="#ffff00">Sedikit pun.</font>
-
-385
-00:44:22,314 --> 00:44:23,341
-<font color="#ffff00">Topan.</font>
-
-386
-00:44:26,017 --> 00:44:27,044
-<font color="#ffff00">Uco.</font>
-
-387
-00:45:00,948 --> 00:45:04,603
-<font color="#ffff00">Eh, maaf. Ada apa lagi, ya?</font>
-
-388
-00:45:05,354 --> 00:45:07,724
-<font color="#ffff00">Itu duitnya udah gua taruh, di amplop.</font>
-
-389
-00:45:08,549 --> 00:45:09,647
-<font color="#ffff00">Masih kurang.</font>
-
-390
-00:45:11,604 --> 00:45:12,524
-<font color="#ffff00">Kurang?</font>
-
-391
-00:45:14,448 --> 00:45:16,524
-<font color="#ffff00">Gua hitung sendiri. Udah pas.</font>
-
-392
-00:45:19,276 --> 00:45:22,004
-<font color="#ffff00">Oh, ya. Kalau bulan lalu pas.</font>
-
-393
-00:45:22,526 --> 00:45:23,804
-<font color="#ffff00">Nggak ada masalah.</font>
-
-394
-00:45:24,854 --> 00:45:28,284
-<font color="#ffff00">Tapi kalau bulan ini,
-lo masih kurang bayar 50 juta.</font>
-
-395
-00:45:35,098 --> 00:45:36,078
-<font color="#ffff00">Silakan.</font>
-
-396
-00:45:47,091 --> 00:45:48,124
-<font color="#ffff00">Terus...</font>
-
-397
-00:45:50,080 --> 00:45:52,440
-<font color="#ffff00">Udah 20 tahun,
-bokap gua selalu ngejagain...</font>
-
-398
-00:45:52,465 --> 00:45:55,347
-<font color="#ffff00">...biar tempat lo nggak pernah
-digrebek sama polisi.</font>
-
-399
-00:45:56,018 --> 00:45:57,502
-<font color="#ffff00">Lo di kasih lapak di wilayah kita...</font>
-
-400
-00:45:57,527 --> 00:45:59,947
-<font color="#ffff00">...dan selama ini kerja sama kita
-aman-aman aja.</font>
-
-401
-00:46:01,065 --> 00:46:03,377
-<font color="#ffff00">Tapi uang setoran
-yang ada di amplop ini...</font>
-
-402
-00:46:03,402 --> 00:46:06,164
-<font color="#ffff00">...cuma cukup buat nutupin usaha bokep lo.</font>
-
-403
-00:46:06,691 --> 00:46:08,604
-<font color="#ffff00">Nggak cukup untuk nutupin...</font>
-
-404
-00:46:09,531 --> 00:46:10,724
-<font color="#ffff00">...sampingan lo.</font>
-
-405
-00:46:14,307 --> 00:46:16,644
-<font color="#ffff00">Gua denger gosip dari mana-mana, Pan.</font>
-
-406
-00:46:17,698 --> 00:46:18,884
-<font color="#ffff00">Katanya, sih.</font>
-
-407
-00:46:19,409 --> 00:46:21,249
-<font color="#ffff00">Katanya lo dan kelompok lo diam-diam...</font>
-
-408
-00:46:21,274 --> 00:46:24,004
-<font color="#ffff00">...ngedarin garam murahan
-di wilayah bokap gua.</font>
-
-409
-00:46:25,026 --> 00:46:27,722
-<font color="#ffff00">Bukan itu. Itu cuma...</font>
-
-410
-00:46:27,764 --> 00:46:29,204
-<font color="#ffff00">Lo nggak perlu ngeles.</font>
-
-411
-00:46:30,164 --> 00:46:31,317
-<font color="#ffff00">Kita udah tahu semuanya.</font>
-
-412
-00:46:33,151 --> 00:46:36,324
-<font color="#ffff00">Nah, mengingat sekarang kita sudah tahu
-tentang usaha sampingan lo...</font>
-
-413
-00:46:36,349 --> 00:46:39,159
-<font color="#ffff00">...dan pastinya lo nggak mau tiba-tiba
-ada yang gedor-gedor pintu lo...</font>
-
-414
-00:46:39,659 --> 00:46:41,364
-<font color="#ffff00">...uang setoran lo baru aja naik.</font>
-
-415
-00:46:43,784 --> 00:46:46,073
-<font color="#ffff00">Lo cukup rogoh kocek sedikit lagi.</font>
-
-416
-00:46:46,098 --> 00:46:48,227
-<font color="#ffff00">Dan kita nggak akan pernah
-ngungkit masalah ini lagi.</font>
-
-417
-00:46:51,143 --> 00:46:54,364
-<font color="#ffff00">Tapi sekarang lo tolong
-bantuin gua isiin amplop ini...</font>
-
-418
-00:46:55,502 --> 00:46:56,884
-<font color="#ffff00">...masih rada enteng soalnya.</font>
-
-419
-00:50:05,559 --> 00:50:06,828
-<font color="#ffff00">Kerjanya bagus, Pak.</font>
-
-420
-00:50:07,051 --> 00:50:08,724
-<font color="#ffff00">Topan doang kelar sama dia.</font>
-
-421
-00:50:09,411 --> 00:50:10,884
-<font color="#ffff00">Kayak udah biasa nyikat orang.</font>
-
-422
-00:50:11,702 --> 00:50:12,794
-<font color="#ffff00">Nggak ada yang kurang.</font>
-
-423
-00:50:15,794 --> 00:50:16,707
-<font color="#ffff00">Oke.</font>
-
-424
-00:50:20,652 --> 00:50:22,605
-<font color="#ffff00">Uco, kasih dia.</font>
-
-425
-00:50:26,785 --> 00:50:28,580
-<font color="#ffff00">Kamu kerjanya bagus hari ini.</font>
-
-426
-00:50:29,507 --> 00:50:32,340
-<font color="#ffff00">Mereka memang pantas dikasih
-pelajaran seperti itu. Benar.</font>
-
-427
-00:50:34,153 --> 00:50:35,404
-<font color="#ffff00">Dipertahankan, ya?</font>
-
-428
-00:50:36,843 --> 00:50:39,116
-<font color="#ffff00">- Makasih, Pa.
-- Oke.</font>
-
-429
-00:50:46,544 --> 00:50:47,876
-<font color="#ffff00">- Pa.
-- Ya?</font>
-
-430
-00:50:49,747 --> 00:50:51,764
-<font color="#ffff00">Saya sempet mikir...</font>
-
-431
-00:50:51,789 --> 00:50:53,907
-<font color="#ffff00">...melihat keadaan belakangan ini.</font>
-
-432
-00:50:55,895 --> 00:50:58,268
-<font color="#ffff00">Mungkin sudah saatnya saya terima
-tanggung jawab yang lebih besar.</font>
-
-433
-00:50:59,192 --> 00:51:01,340
-<font color="#ffff00">Mungkin pegang klien kita yang lebih...</font>
-
-434
-00:51:01,365 --> 00:51:02,387
-<font color="#ffff00">Tunggu.</font>
-
-435
-00:51:05,614 --> 00:51:07,927
-<font color="#ffff00">Saya yang tahu kapan waktunya,
-tapi nggak sekarang.</font>
-
-436
-00:51:09,571 --> 00:51:10,644
-<font color="#ffff00">Belum.</font>
-
-437
-00:51:12,531 --> 00:51:13,564
-<font color="#ffff00">Oke?</font>
-
-438
-00:51:20,744 --> 00:51:21,804
-<font color="#ffff00">Ada lagi?</font>
-
-439
-00:51:24,574 --> 00:51:25,574
-<font color="#ffff00">Nggak.</font>
-
-440
-00:51:26,506 --> 00:51:28,659
-<font color="#ffff00">Oke. Makasih, Uco.</font>
-
-441
-00:51:31,891 --> 00:51:32,804
-<font color="#ffff00">Makasih.</font>
-
-442
-00:51:54,598 --> 00:51:58,762
-<font color="#ffff00">♪ Di suatu tempat ♪</font>
-
-443
-00:51:58,804 --> 00:52:01,089
-<font color="#ffff00">♪ Aku akan bertemu ♪</font>
-
-444
-00:52:01,131 --> 00:52:04,369
-<font color="#ffff00">♪ Seseorang yang mempesona ♪</font>
-
-445
-00:52:04,903 --> 00:52:06,569
-<font color="#ffff00">Mau cobain ini nggak, Mas?</font>
-
-446
-00:52:06,611 --> 00:52:08,324
-<font color="#ffff00">Nggak, makasih.</font>
-
-447
-00:52:12,129 --> 00:52:13,884
-<font color="#ffff00">Ayo Yud, minum lah.</font>
-
-448
-00:52:13,926 --> 00:52:16,924
-<font color="#ffff00">- Ayo tuangin.
-- Udah, Co. Gua cukup.</font>
-
-449
-00:52:17,971 --> 00:52:20,754
-<font color="#ffff00">Kalau nggak minum, nyanyi kek.
-Grepe-grepe cewek sini kek.</font>
-
-450
-00:52:20,779 --> 00:52:22,167
-<font color="#ffff00">Tapi jangan diem aja, dong.</font>
-
-451
-00:52:22,192 --> 00:52:23,844
-<font color="#ffff00">Nggak apa-apa, gua nonton aja.</font>
-
-452
-00:52:24,851 --> 00:52:28,208
-<font color="#ffff00">Ya elah, minum kagak, nyanyi kagak.</font>
-
-453
-00:52:28,233 --> 00:52:30,878
-<font color="#ffff00">Ngomong dari tadi dong.
-Tahu gini langsung aja ke tempat striptis.</font>
-
-454
-00:52:30,903 --> 00:52:32,692
-<font color="#ffff00">Bisa dapet cewek yang oke.</font>
-
-455
-00:52:32,825 --> 00:52:36,137
-<font color="#ffff00">Daripada di sini,
-sama PSK murahan doang.</font>
-
-456
-00:52:36,162 --> 00:52:38,204
-<font color="#ffff00">Hei, lo siapa katain kita PSK?</font>
-
-457
-00:52:38,536 --> 00:52:41,809
-<font color="#ffff00">Yang pasti gua lebih penting daripada lo
-dan harusnya lo juga udah tahu.</font>
-
-458
-00:52:41,834 --> 00:52:43,551
-<font color="#ffff00">- Bacot lo!
-- Joanna, udah jangan.</font>
-
-459
-00:52:43,584 --> 00:52:44,804
-<font color="#ffff00">Nggak apa-apa.</font>
-
-460
-00:52:45,838 --> 00:52:47,118
-<font color="#ffff00">Joanna...</font>
-
-461
-00:52:47,550 --> 00:52:50,023
-<font color="#ffff00">...gua orang yang udah
-sepantasnya bikin lo takut.</font>
-
-462
-00:52:51,205 --> 00:52:52,358
-<font color="#ffff00">Lihat aja teman lo.</font>
-
-463
-00:52:54,382 --> 00:52:57,247
-<font color="#ffff00">- Oh ya? Emangnya lo siapa?
-- Gini, ya.</font>
-
-464
-00:52:58,331 --> 00:53:01,676
-<font color="#ffff00">Tempat lo kerja, tempat lo tinggal.</font>
-
-465
-00:53:01,701 --> 00:53:04,598
-<font color="#ffff00">Tempat lo tidur sama klien...</font>
-
-466
-00:53:04,623 --> 00:53:07,016
-<font color="#ffff00">...semuanya punya bokap gua.</font>
-
-467
-00:53:07,450 --> 00:53:10,840
-<font color="#ffff00">Dan tugas gua untuk mastiin bahwa
-semua orang kerja di kota ini...</font>
-
-468
-00:53:10,865 --> 00:53:12,818
-<font color="#ffff00">...nunjukin rasa hormat mereka ke dia.</font>
-
-469
-00:53:13,196 --> 00:53:14,636
-<font color="#ffff00">Jadi, lo preman pasar?</font>
-
-470
-00:53:18,605 --> 00:53:20,645
-<font color="#ffff00">- Sini deh, gua nyanyi.
-- Jangan.</font>
-
-471
-00:53:21,604 --> 00:53:24,404
-<font color="#ffff00">Biarin aja, dia udah gede gini.</font>
-
-472
-00:53:24,637 --> 00:53:26,825
-<font color="#ffff00">Terserah dia, dong,
-dia mau ngomong apa.</font>
-
-473
-00:53:26,850 --> 00:53:27,883
-<font color="#ffff00">Betul.</font>
-
-474
-00:53:31,147 --> 00:53:33,940
-<font color="#ffff00">Minum aja terus.
-Biar nggak berasa sakitnya.</font>
-
-475
-00:53:35,095 --> 00:53:36,114
-<font color="#ffff00">Maksud lo apaan?</font>
-
-476
-00:53:39,012 --> 00:53:41,049
-<font color="#ffff00">Maksud gua...</font>
-
-477
-00:53:41,091 --> 00:53:42,544
-<font color="#ffff00">...sekarang giliran lo nyanyi.</font>
-
-478
-00:53:42,569 --> 00:53:45,247
-<font color="#ffff00">Gua nggak mau nyanyi.
-Gua cuma mau tahu lo tadi ngomong apa.</font>
-
-479
-00:53:45,272 --> 00:53:47,590
-<font color="#ffff00">Udah buruan nyanyi!
-Gua bosen dengerin lo ngebacot!</font>
-
-480
-00:53:48,620 --> 00:53:50,693
-<font color="#ffff00">Ya, itu lo! Nyanyi!</font>
-
-481
-00:53:50,718 --> 00:53:54,681
-<font color="#ffff00">Gua bayar lo untuk nyanyi atau tidur.
-Lo mau yang mana? Ayo pilih!</font>
-
-482
-00:53:54,706 --> 00:53:56,897
-<font color="#ffff00">Mau nyanyi? Ayo kita pilih lagu.</font>
-
-483
-00:53:56,922 --> 00:53:58,903
-<font color="#ffff00">Mau gua pilihin lagunya?
-Mana daftar lagunya?</font>
-
-484
-00:53:58,928 --> 00:54:01,126
-<font color="#ffff00">Ya udah, jangan lama, dong!
-Mana daftar lagunya?</font>
-
-485
-00:54:01,406 --> 00:54:02,846
-<font color="#ffff00">Jangan sentuh itu!</font>
-
-486
-00:54:04,087 --> 00:54:05,047
-<font color="#ffff00">Awas lo!</font>
-
-487
-00:54:16,724 --> 00:54:19,802
-<font color="#ffff00">Ini dia yang bikin negara ini jadi ancur.</font>
-
-488
-00:54:19,827 --> 00:54:23,107
-<font color="#ffff00">Awalnya janji manis.
-"Ya, bisa kok, bisa!"</font>
-
-489
-00:54:23,458 --> 00:54:26,098
-<font color="#ffff00">Tapi kalau udah saatnya
-buat ngebuktiin bacotannya itu...</font>
-
-490
-00:54:26,123 --> 00:54:28,500
-<font color="#ffff00">..."Nggak, maaf, nggak bisa" Tai!</font>
-
-491
-00:54:28,575 --> 00:54:30,126
-<font color="#ffff00">Nggak ada ceritanya malam ini!</font>
-
-492
-00:54:30,996 --> 00:54:33,549
-<font color="#ffff00">Sekarang, nyanyi.</font>
-
-493
-00:54:36,700 --> 00:54:39,406
-<font color="#ffff00">♪ Di suatu tempat ♪</font>
-
-494
-00:54:50,632 --> 00:54:52,972
-<font color="#ffff00">Semua baik-baik saja, Pak?</font>
-
-495
-00:54:54,571 --> 00:54:55,724
-<font color="#ffff00">Nggak...</font>
-
-496
-00:54:56,990 --> 00:54:58,388
-<font color="#ffff00">Nggak apa-apa, Pak.</font>
-
-497
-00:54:58,654 --> 00:55:00,487
-<font color="#ffff00">Nggak apa-apa, kan?</font>
-
-498
-00:55:01,246 --> 00:55:03,849
-<font color="#ffff00">- Tuh, lihat sendiri, kan? Nggak apa-apa.
-- Tolong lepasin!</font>
-
-499
-00:55:04,109 --> 00:55:06,829
-<font color="#ffff00">- Tolong keluar lagi, ya. Makasih.
-- Lepas...</font>
-
-500
-00:55:08,924 --> 00:55:10,044
-<font color="#ffff00">Bawa mereka keluar.</font>
-
-501
-00:55:16,371 --> 00:55:17,364
-<font color="#ffff00">Co.</font>
-
-502
-00:55:26,342 --> 00:55:27,455
-<font color="#ffff00">Keluar!</font>
-
-503
-00:55:38,877 --> 00:55:39,997
-<font color="#ffff00">Malam ini...</font>
-
-504
-00:55:41,085 --> 00:55:42,318
-<font color="#ffff00">...gratis saja, Pak.</font>
-
-505
-00:55:43,531 --> 00:55:44,644
-<font color="#ffff00">Terima kasih.</font>
-
-506
-00:55:57,476 --> 00:55:58,577
-<font color="#ffff00">Lo nggak apa-apa?</font>
-
-507
-00:55:59,604 --> 00:56:03,186
-<font color="#ffff00">Nggak apa-apalah,
-PSK doang emang gua pikirin.</font>
-
-508
-00:56:04,355 --> 00:56:07,108
-<font color="#ffff00">Cuma gila aja dia berani
-ngebacot sama gua, siapa dia gitu?</font>
-
-509
-00:56:11,829 --> 00:56:13,382
-<font color="#ffff00">Gua lebih dari yang dia bilang.</font>
-
-510
-00:56:14,100 --> 00:56:15,573
-<font color="#ffff00">Lebih dari semua ini.</font>
-
-511
-00:56:18,324 --> 00:56:21,282
-<font color="#ffff00">Sudah saatnya gua naik
-dan gua maunya bokap sadar.</font>
-
-512
-00:56:21,307 --> 00:56:23,692
-<font color="#ffff00">- Pasti nggak lama lagi.
-- Oh, ya? Kapan?</font>
-
-513
-00:56:35,428 --> 00:56:36,461
-<font color="#ffff00">Tunggu di sini.</font>
-
-514
-00:56:49,838 --> 00:56:50,791
-<font color="#ffff00">Halo?</font>
-
-515
-01:01:12,245 --> 01:01:16,204
-<font color="#ffff00">Saya sudah lihat banyak orang-orang
-yang jatuh sebelum waktunya.</font>
-
-516
-01:01:16,581 --> 01:01:18,839
-<font color="#ffff00">Sebetulnya mereka bisa
-bertahan lebih lama di atas...</font>
-
-517
-01:01:18,864 --> 01:01:21,262
-<font color="#ffff00">...kalau mereka tahu
-kapan mereka harus berhenti.</font>
-
-518
-01:01:22,972 --> 01:01:24,562
-<font color="#ffff00">Tapi mereka nggak tahu.</font>
-
-519
-01:01:26,020 --> 01:01:27,373
-<font color="#ffff00">Ujung-ujungnya...</font>
-
-520
-01:01:28,448 --> 01:01:30,641
-<font color="#ffff00">...mereka semua jatuh ke tempat yang sama.</font>
-
-521
-01:01:31,995 --> 01:01:33,308
-<font color="#ffff00">Di lobang yang sama.</font>
-
-522
-01:01:34,520 --> 01:01:35,781
-<font color="#ffff00">Di bawahnya sungai yang sama.</font>
-
-523
-01:01:37,324 --> 01:01:38,397
-<font color="#ffff00">Isi batu dalamnya.</font>
-
-524
-01:01:45,982 --> 01:01:47,175
-<font color="#ffff00">Ini kenyataannya.</font>
-
-525
-01:01:48,101 --> 01:01:49,814
-<font color="#ffff00">Kalau mau ikut kita, ikut kita.</font>
-
-526
-01:01:50,477 --> 01:01:51,637
-<font color="#ffff00">Gampang.</font>
-
-527
-01:01:54,225 --> 01:01:55,845
-<font color="#ffff00">Mereka hilang begitu cepat.</font>
-
-528
-01:01:57,971 --> 01:02:00,004
-<font color="#ffff00">Saya melihat ini ada di diri Uco.</font>
-
-529
-01:02:01,805 --> 01:02:04,318
-<font color="#ffff00">Saya sudah coba berpaling,
-tapi nggak bisa.</font>
-
-530
-01:02:04,653 --> 01:02:06,046
-<font color="#ffff00">Bakat itu memang ada sama dia.</font>
-
-531
-01:02:07,974 --> 01:02:11,120
-<font color="#ffff00">Saya sudah banyak sekali
-kehilangan hal dalam hidup saya...</font>
-
-532
-01:02:11,153 --> 01:02:13,631
-<font color="#ffff00">...sebelum saya sadari bahwa itu penting.</font>
-
-533
-01:02:14,677 --> 01:02:16,670
-<font color="#ffff00">Saya nggak ingin ini terjadi sama dia.</font>
-
-534
-01:02:18,827 --> 01:02:19,900
-<font color="#ffff00">Nggak mungkin, Pak.</font>
-
-535
-01:02:20,765 --> 01:02:23,789
-<font color="#ffff00">Selama di bawah bimbingan Bapak,
-Uco sangat hormat dengan Bapak.</font>
-
-536
-01:02:25,396 --> 01:02:26,749
-<font color="#ffff00">Mudah-mudahan kamu benar.</font>
-
-537
-01:02:27,480 --> 01:02:29,472
-<font color="#ffff00">Tapi perasaan saya tidak pernah salah.</font>
-
-538
-01:02:31,558 --> 01:02:34,644
-<font color="#ffff00">Belakangan ini kan kamu sudah seperti
-bayang-bayangnya Uco.</font>
-
-539
-01:02:35,276 --> 01:02:37,800
-<font color="#ffff00">Jadi, kamu jaga dia yang benar.</font>
-
-540
-01:02:37,825 --> 01:02:41,147
-<font color="#ffff00">Kamu lihat kalau ada hal yang aneh
-sedikit saja, kamu lapor sama saya.</font>
-
-541
-01:02:43,005 --> 01:02:45,398
-<font color="#ffff00">Kalau nggak,
-seperti yang saya bilang tadi...</font>
-
-542
-01:02:46,119 --> 01:02:48,839
-<font color="#ffff00">...jatuh di tempat yang sama,
-di bawahnya sungai yang sama.</font>
-
-543
-01:02:52,701 --> 01:02:54,781
-<font color="#ffff00">Mudah-mudahan kamu pintar berenang.</font>
-
-544
-01:03:00,159 --> 01:03:03,293
-<font color="#ffff00">Itu ikannya dibuang saja lagi,
-nggak ada yang enak dimakan.</font>
-
-545
-01:03:30,701 --> 01:03:33,334
-<font color="#ffff00">Anda dan saya bedanya cuma satu.</font>
-
-546
-01:03:34,691 --> 01:03:35,724
-<font color="#ffff00">Warisan.</font>
-
-547
-01:03:37,771 --> 01:03:42,164
-<font color="#ffff00">Setiap langkah yang saya buat adalah
-untuk kepentingan kubu dan keluarga saya.</font>
-
-548
-01:03:43,324 --> 01:03:45,604
-<font color="#ffff00">Setiap langkah yang Anda buat...</font>
-
-549
-01:03:47,038 --> 01:03:49,951
-<font color="#ffff00">...masih di bawah bayangan
-masa lalu ayah Anda.</font>
-
-550
-01:03:52,732 --> 01:03:53,885
-<font color="#ffff00">Dalam hidup saya...</font>
-
-551
-01:03:55,630 --> 01:03:58,303
-<font color="#ffff00">...tidak pernah harus mengikuti peraturan
-dari siapa pun.</font>
-
-552
-01:04:00,486 --> 01:04:02,959
-<font color="#ffff00">Tidak pernah dituntut
-untuk jadi seseorang.</font>
-
-553
-01:04:05,662 --> 01:04:07,015
-<font color="#ffff00">Tidak ada yang memerintah.</font>
-
-554
-01:04:10,627 --> 01:04:11,620
-<font color="#ffff00">Ayah saya...</font>
-
-555
-01:04:13,329 --> 01:04:15,642
-<font color="#ffff00">Itu bajingan dulu tukang sapu jalanan.</font>
-
-556
-01:04:17,283 --> 01:04:21,036
-<font color="#ffff00">Jadi tukang semir sepatu saja
-saya sudah jauh lebih baik daripada dia.</font>
-
-557
-01:04:22,476 --> 01:04:23,549
-<font color="#ffff00">Jadi, ya...</font>
-
-558
-01:04:24,804 --> 01:04:26,164
-<font color="#ffff00">...kita di luar beda.</font>
-
-559
-01:04:27,940 --> 01:04:30,133
-<font color="#ffff00">Tapi di dalam, ambisi kita sama.</font>
-
-560
-01:04:31,605 --> 01:04:34,318
-<font color="#ffff00">Buktinya, Anda datang ke sini
-atas kemauan Anda sendiri.</font>
-
-561
-01:04:47,151 --> 01:04:49,864
-<font color="#ffff00">Kita sudah makan, kita sudah minum...</font>
-
-562
-01:04:50,444 --> 01:04:52,997
-<font color="#ffff00">...ada satu hal yang harus
-Anda tahu tentang saya.</font>
-
-563
-01:04:54,375 --> 01:04:57,413
-<font color="#ffff00">Kalau saya tipe orang yang suka
-memaksakan kehendaknya...</font>
-
-564
-01:04:57,438 --> 01:05:00,151
-<font color="#ffff00">...saya sudah menodongkan beceng
-ke kepala Anda sekarang.</font>
-
-565
-01:05:04,377 --> 01:05:06,540
-<font color="#ffff00">Tapi tidak, itu bukan saya.</font>
-
-566
-01:05:07,571 --> 01:05:09,124
-<font color="#ffff00">Paling tidak bukan hari ini.</font>
-
-567
-01:05:13,282 --> 01:05:15,799
-<font color="#ffff00">Hari ini saya ingin memberi Anda hadiah.</font>
-
-568
-01:05:18,214 --> 01:05:19,607
-<font color="#ffff00">Sebuah kesempatan.</font>
-
-569
-01:05:22,414 --> 01:05:25,447
-<font color="#ffff00">Sesuatu yang tidak pernah diberikan
-oleh ayah Anda.</font>
-
-570
-01:05:28,127 --> 01:05:29,041
-<font color="#ffff00">Silakan.</font>
-
-571
-01:06:06,200 --> 01:06:09,004
-<font color="#ffff00">Waktu mereka keluar dari penjara,
-tidak ada satu orang pun...</font>
-
-572
-01:06:09,029 --> 01:06:10,949
-<font color="#ffff00">...dari kubu Anda yang menjemput mereka.</font>
-
-573
-01:06:13,061 --> 01:06:14,061
-<font color="#ffff00">Saya kaget.</font>
-
-574
-01:06:16,725 --> 01:06:18,238
-<font color="#ffff00">Sekarang bayangkan...</font>
-
-575
-01:06:18,980 --> 01:06:22,333
-<font color="#ffff00">...betapa kagetnya mereka,
-waktu mereka tahu saya jemput...</font>
-
-576
-01:06:23,332 --> 01:06:24,765
-<font color="#ffff00">...dan bawa kemari...</font>
-
-577
-01:06:25,428 --> 01:06:27,101
-<font color="#ffff00">...hanya untuk Anda.</font>
-
-578
-01:06:33,629 --> 01:06:35,000
-<font color="#ffff00">Ini hadiah saya.</font>
-
-579
-01:06:37,392 --> 01:06:38,832
-<font color="#ffff00">Sebuah kesempatan...</font>
-
-580
-01:06:41,423 --> 01:06:42,583
-<font color="#ffff00">...untuk balas dendam.</font>
-
-581
-01:06:58,014 --> 01:06:58,927
-<font color="#ffff00">Habis itu?</font>
-
-582
-01:07:02,516 --> 01:07:04,229
-<font color="#ffff00">Habis itu kita bicara bisnis.</font>
-
-583
-01:07:14,180 --> 01:07:17,013
-<font color="#ffff00">Asal lo tahu aja,
-kalau lo perlu bantuan duit...</font>
-
-584
-01:07:17,038 --> 01:07:18,476
-<font color="#ffff00">Saya butuh tenaga.</font>
-
-585
-01:07:19,366 --> 01:07:20,639
-<font color="#ffff00">Kalau itu gua bisa atur.</font>
-
-586
-01:07:22,196 --> 01:07:23,389
-<font color="#ffff00">Jadi, lo maunya apa?</font>
-
-587
-01:07:24,271 --> 01:07:25,631
-<font color="#ffff00">Ada wilayah yang saya suka.</font>
-
-588
-01:07:27,470 --> 01:07:28,550
-<font color="#ffff00">Wilayahnya siapa?</font>
-
-589
-01:07:29,991 --> 01:07:31,704
-<font color="#ffff00">Makanya saya butuh bantuan kamu.</font>
-
-590
-01:07:35,437 --> 01:07:36,950
-<font color="#ffff00">Kemungkinannya cuma dua.</font>
-
-591
-01:07:38,432 --> 01:07:39,425
-<font color="#ffff00">Maaf, ya.</font>
-
-592
-01:07:39,894 --> 01:07:41,327
-<font color="#ffff00">Dengan segala hormat...</font>
-
-593
-01:07:41,869 --> 01:07:43,509
-<font color="#ffff00">...kalau saya mau wilayah...</font>
-
-594
-01:07:43,965 --> 01:07:46,758
-<font color="#ffff00">...dan menyewanya dengan cara yang benar,
-saya ke bapakmu.</font>
-
-595
-01:07:48,189 --> 01:07:49,222
-<font color="#ffff00">Bukan kamu.</font>
-
-596
-01:07:52,805 --> 01:07:53,918
-<font color="#ffff00">Wilayah Jepang.</font>
-
-597
-01:07:55,811 --> 01:07:56,764
-<font color="#ffff00">Heh.</font>
-
-598
-01:08:07,015 --> 01:08:09,368
-<font color="#ffff00">Wilayahnya strategis untuk saya
-memulai bisnis.</font>
-
-599
-01:08:11,373 --> 01:08:12,794
-<font color="#ffff00">Kalau begitu ngapain lo ke gua?</font>
-
-600
-01:08:14,726 --> 01:08:15,879
-<font color="#ffff00">Itu kan wilayahnya mereka.</font>
-
-601
-01:08:24,173 --> 01:08:25,966
-<font color="#ffff00">Bokap gua nggak mungkin ngasih.</font>
-
-602
-01:08:26,439 --> 01:08:28,512
-<font color="#ffff00">Dia nggak mungkin mau ngusik
-keadaan yang ada sekarang.</font>
-
-603
-01:08:29,111 --> 01:08:30,944
-<font color="#ffff00">Saya nggak perlu lihat apa kata bapakmu.</font>
-
-604
-01:08:31,122 --> 01:08:34,204
-<font color="#ffff00">Saya butuh dukungan kamu,
-dan kalau saya boleh ngomong jujur...</font>
-
-605
-01:08:34,229 --> 01:08:36,227
-<font color="#ffff00">...kamu juga butuh dukungan saya.</font>
-
-606
-01:08:37,153 --> 01:08:38,444
-<font color="#ffff00">Maksud lo?</font>
-
-607
-01:08:39,637 --> 01:08:43,093
-<font color="#ffff00">Saya dengar para petinggi
-sudah tidak sejalan lagi dengan ayahmu.</font>
-
-608
-01:08:43,895 --> 01:08:47,564
-<font color="#ffff00">Zaman berubah.
-Kubu Goto sudah mulai banyak koneksi.</font>
-
-609
-01:08:47,589 --> 01:08:49,027
-<font color="#ffff00">Koneksi kalangan atas.</font>
-
-610
-01:08:49,965 --> 01:08:53,124
-<font color="#ffff00">Ayahmu selesai kerja, dia pulang, tidur.</font>
-
-611
-01:08:53,231 --> 01:08:57,284
-<font color="#ffff00">Anaknya Goto, dia bawa Reza dan gengnya
-pergi ke kelab, mereka berpesta.</font>
-
-612
-01:08:57,676 --> 01:08:58,934
-<font color="#ffff00">Asal kamu tahu.</font>
-
-613
-01:08:58,959 --> 01:09:00,481
-<font color="#ffff00">Politisi, politikus itu gampang...</font>
-
-614
-01:09:00,506 --> 01:09:03,404
-<font color="#ffff00">...kamu kasih sedikit duit,
-banyak selangkangan, kelar.</font>
-
-615
-01:09:08,428 --> 01:09:09,661
-<font color="#ffff00">Lo maunya apa sekarang?</font>
-
-616
-01:09:10,780 --> 01:09:14,059
-<font color="#ffff00">Saya mau komitmenmu,
-dan saya akan akhiri kedamaian ini.</font>
-
-617
-01:09:14,084 --> 01:09:18,676
-<font color="#ffff00">Percaya ke saya, ketika perang dimulai,
-kita akan ada di posisi yang lebih kuat.</font>
-
-618
-01:09:19,285 --> 01:09:20,770
-<font color="#ffff00">Biar mereka semua lihat...</font>
-
-619
-01:09:20,795 --> 01:09:22,668
-<font color="#ffff00">...bagaimana kamu
-mengambil alih kekuasaan...</font>
-
-620
-01:09:22,693 --> 01:09:25,451
-<font color="#ffff00">...dan membawa organisasimu
-lebih jauh dari sekarang.</font>
-
-621
-01:09:26,271 --> 01:09:28,751
-<font color="#ffff00">Lo sendiri? Untungnya apa buat lo?</font>
-
-622
-01:09:30,815 --> 01:09:32,175
-<font color="#ffff00">Semua orang ada batasannya.</font>
-
-623
-01:09:33,493 --> 01:09:34,892
-<font color="#ffff00">Setelah kita ambil wilayah Goto...</font>
-
-624
-01:09:34,917 --> 01:09:38,377
-<font color="#ffff00">...saya cuma mau satu wilayah kecil
-yang saya bisa gunakan semau saya...</font>
-
-625
-01:09:39,485 --> 01:09:41,118
-<font color="#ffff00">...tanpa harus bayar ke siapa pun.</font>
-
-626
-01:09:42,117 --> 01:09:43,077
-<font color="#ffff00">Tentunya.</font>
-
-627
-01:09:45,427 --> 01:09:48,287
-<font color="#ffff00">Terus gimana caranya lo mau mulai perang
-antara kita sama mereka?</font>
-
-628
-01:09:49,125 --> 01:09:51,403
-<font color="#ffff00">Udah 10 tahun lebih
-nggak ada tumpah darah sama sekali.</font>
-
-629
-01:09:51,428 --> 01:09:52,556
-<font color="#ffff00">Oh, itu harus berubah.</font>
-
-630
-01:10:03,171 --> 01:10:04,204
-<font color="#ffff00">Gitu, dong.</font>
-
-631
-01:10:44,329 --> 01:10:47,484
-<font color="#ffff00">Kalau lo mau bokap gua mulai perang
-dengan Goto...</font>
-
-632
-01:10:48,172 --> 01:10:50,005
-<font color="#ffff00">...lo nggak bisa ngebunuh keroco doang.</font>
-
-633
-01:10:51,316 --> 01:10:53,829
-<font color="#ffff00">Saya sudah tahu orang yang pantas
-untuk disingkirkan.</font>
-
-634
-01:13:02,036 --> 01:13:03,946
-<font color="#ffff00">Oke, waktu yang sampai bulan depan, ya.</font>
-
-635
-01:13:04,844 --> 01:13:06,044
-<font color="#ffff00">Sebentar, Dwi.</font>
-
-636
-01:13:08,229 --> 01:13:09,229
-<font color="#ffff00">Kenapa?</font>
-
-637
-01:13:09,652 --> 01:13:10,885
-<font color="#ffff00">Karim gimana?</font>
-
-638
-01:13:10,966 --> 01:13:12,204
-<font color="#ffff00">Kenapa Karim?</font>
-
-639
-01:13:12,996 --> 01:13:15,076
-<font color="#ffff00">Dwi. Kamu janji.</font>
-
-640
-01:13:15,861 --> 01:13:17,581
-<font color="#ffff00">Aku bilang kalau waktunya udah tepat.</font>
-
-641
-01:13:18,411 --> 01:13:19,444
-<font color="#ffff00">Sekarang belum.</font>
-
-642
-01:13:24,101 --> 01:13:25,974
-<font color="#ffff00">Teman-temannya sering ke sini, Koso.</font>
-
-643
-01:13:27,716 --> 01:13:30,556
-<font color="#ffff00">Kamu pikir dia mau bilang sama
-teman-temannya kalau ini bapaknya?</font>
-
-644
-01:13:31,719 --> 01:13:34,272
-<font color="#ffff00">Kamu nggak usah ngomong gitu, Wi,
-aku mengerti.</font>
-
-645
-01:13:35,779 --> 01:13:38,572
-<font color="#ffff00">Tapi aku udah lama banget
-nggak ketemu dia, dan...</font>
-
-646
-01:13:38,597 --> 01:13:40,035
-<font color="#ffff00">Ya, pilihan siapa itu?</font>
-
-647
-01:13:40,060 --> 01:13:43,338
-<font color="#ffff00">Pilihan kamu, kan?
-Kerjaannya pilihan siapa? Pilihan kamu.</font>
-
-648
-01:13:44,352 --> 01:13:45,745
-<font color="#ffff00">Itu untuk ngurus kamu.</font>
-
-649
-01:13:46,696 --> 01:13:50,068
-<font color="#ffff00">Ada berapa banyak bapak di luar sana
-yang bisa ngurus keluarganya...</font>
-
-650
-01:13:50,093 --> 01:13:52,292
-<font color="#ffff00">...tanpa harus pulang dengan
-tangan berlumuran darah?</font>
-
-651
-01:13:52,817 --> 01:13:55,070
-<font color="#ffff00">Masih nggak sadar kamu,
-kerjaan kamu kerjaan kotor?</font>
-
-652
-01:13:57,551 --> 01:13:59,644
-<font color="#ffff00">- Aku bukan laki-laki pintar.
-- Emang bukan!</font>
-
-653
-01:14:04,154 --> 01:14:05,847
-<font color="#ffff00">Tapi dulu kamu orang yang baik.</font>
-
-654
-01:14:07,249 --> 01:14:09,942
-<font color="#ffff00">Itu berarti, aku masih punya hak
-untuk ketemu dia, kan?</font>
-
-655
-01:14:11,610 --> 01:14:13,823
-<font color="#ffff00">Itu masalahnya.
-Nggak, kamu nggak punya hak.</font>
-
-656
-01:14:15,004 --> 01:14:16,204
-<font color="#ffff00">Nggak seperti ini.</font>
-
-657
-01:14:17,220 --> 01:14:19,380
-<font color="#ffff00">Aku nggak mau lagi
-denger soal kamu berubah.</font>
-
-658
-01:14:20,047 --> 01:14:23,180
-<font color="#ffff00">Ini udah 15 tahun,
-dan aku nggak kenal lagi siapa kamu.</font>
-
-659
-01:14:36,099 --> 01:14:38,504
-<font color="#ffff00">HUBUNGI UCO</font>
-
-660
-01:14:43,831 --> 01:14:46,324
-<font color="#ffff00">Maaf, aku harus pergi.</font>
-
-661
-01:14:48,479 --> 01:14:49,532
-<font color="#ffff00">Selalu.</font>
-
-662
-01:15:52,927 --> 01:15:56,164
-<font color="#ffff00">Gila, ya?
-Sekarang siapa aja bisa masuk ke sini.</font>
-
-663
-01:15:56,763 --> 01:15:58,505
-<font color="#ffff00">Dulu tempat ini masih ada kelasnya.</font>
-
-664
-01:15:58,669 --> 01:16:01,240
-<font color="#ffff00">Tapi sekarang lihat aja,
-bule bisa masuk pake sendal jepit...</font>
-
-665
-01:16:01,273 --> 01:16:04,527
-<font color="#ffff00">...minum bir sama bercinta sama cewek
-paling murah di WC seperti binatang.</font>
-
-666
-01:16:04,552 --> 01:16:05,884
-<font color="#ffff00">Udah kacau semuanya.</font>
-
-667
-01:16:07,623 --> 01:16:10,740
-<font color="#ffff00">Semuanya harus dimulai lagi dari awal,
-dari kita.</font>
-
-668
-01:16:10,765 --> 01:16:11,907
-<font color="#ffff00">Seperti dulu.</font>
-
-669
-01:16:13,169 --> 01:16:16,589
-<font color="#ffff00">Dulu, kalau bokap masuk ruangan,
-semua orang langsung diem.</font>
-
-670
-01:16:16,912 --> 01:16:18,324
-<font color="#ffff00">Takut sama dia.</font>
-
-671
-01:16:18,427 --> 01:16:20,619
-<font color="#ffff00">Karena mereka tahu,
-dia bisa ngelakuin apa saja.</font>
-
-672
-01:16:21,130 --> 01:16:22,964
-<font color="#ffff00">Zaman udah beda.</font>
-
-673
-01:16:23,091 --> 01:16:26,364
-<font color="#ffff00">Yah, mungkin mereka
-nggak takut lagi sama dia seperti dulu...</font>
-
-674
-01:16:27,099 --> 01:16:29,484
-<font color="#ffff00">...tapi bukan berarti
-Bapak kehilangan kekuatannya.</font>
-
-675
-01:16:30,287 --> 01:16:34,013
-<font color="#ffff00">Dia sudah tahu cara ngendaliinnya.
-Makanya mereka hormat sama dia.</font>
-
-676
-01:16:34,038 --> 01:16:35,873
-<font color="#ffff00">Dia nggak perlu lagi rasa takut.</font>
-
-677
-01:16:35,898 --> 01:16:39,115
-<font color="#ffff00">Karena dia sudah dapat rasa hormat
-dan itu yang paling penting.</font>
-
-678
-01:16:39,140 --> 01:16:40,513
-<font color="#ffff00">Ya, dulu itu penting.</font>
-
-679
-01:16:40,538 --> 01:16:43,324
-<font color="#ffff00">Dulu. Tapi sekarang udah nggak lagi.</font>
-
-680
-01:16:43,847 --> 01:16:45,912
-<font color="#ffff00">Zaman sudah benar-benar berubah.</font>
-
-681
-01:16:45,937 --> 01:16:48,190
-<font color="#ffff00">Orang zaman sekarang
-udah nggak peduli dulu seperti apa.</font>
-
-682
-01:16:48,215 --> 01:16:50,093
-<font color="#ffff00">Mereka cuma ngelihat sekarangnya gimana.</font>
-
-683
-01:16:50,595 --> 01:16:53,553
-<font color="#ffff00">Hormat? Udah nggak ada
-artinya lagi buat mereka.</font>
-
-684
-01:16:53,578 --> 01:16:54,760
-<font color="#ffff00">Itu udah sering kejadian.</font>
-
-685
-01:16:54,785 --> 01:16:57,214
-<font color="#ffff00">Kita hadapin bajingan-bajingan
-yang pengen unjuk gigi.</font>
-
-686
-01:16:57,937 --> 01:16:59,310
-<font color="#ffff00">Percaya sama saya.</font>
-
-687
-01:16:59,762 --> 01:17:01,655
-<font color="#ffff00">Mereka nggak pernah tahan lama.</font>
-
-688
-01:17:02,826 --> 01:17:04,679
-<font color="#ffff00">Kalau giliran Mas
-yang sudah pegang kekuasaan...</font>
-
-689
-01:17:04,704 --> 01:17:06,342
-<font color="#ffff00">...Mas bakal lihat sendiri.</font>
-
-690
-01:17:06,367 --> 01:17:09,045
-<font color="#ffff00">Mereka jatuh sama seperti bapaknya Mas.</font>
-
-691
-01:17:11,641 --> 01:17:13,439
-<font color="#ffff00">Mas memiliki kekuatan yang sama.</font>
-
-692
-01:17:13,464 --> 01:17:15,477
-<font color="#ffff00">Saya lihat sendiri dari Mas kecil dulu.</font>
-
-693
-01:17:16,896 --> 01:17:18,702
-<font color="#ffff00">Jangan sampai hilang kekuatan itu.</font>
-
-694
-01:17:18,727 --> 01:17:20,590
-<font color="#ffff00">Tapi belajar cara ngendaliinnya.</font>
-
-695
-01:17:21,198 --> 01:17:24,238
-<font color="#ffff00">Kalau begitu, pasti,
-suatu saat Mas bakal sehebat Bapak.</font>
-
-696
-01:17:28,903 --> 01:17:30,303
-<font color="#ffff00">Koso.</font>
-
-697
-01:17:31,302 --> 01:17:33,247
-<font color="#ffff00">Lo memang teman keluarga
-yang paling deket.</font>
-
-698
-01:17:33,638 --> 01:17:35,678
-<font color="#ffff00">Bapak Mas yang selalu baik sama saya.</font>
-
-699
-01:17:37,183 --> 01:17:38,223
-<font color="#ffff00">Untuk keluarga.</font>
-
-700
-01:17:46,443 --> 01:17:48,274
-<font color="#ffff00">Kencing dulu, ya. Kebelet gua.</font>
-
-701
-01:23:58,053 --> 01:24:00,264
-<font color="#ffff00">Cina-Cina bilang,
-mereka ngelihat orang-orangnya Goto...</font>
-
-702
-01:24:00,289 --> 01:24:01,924
-<font color="#ffff00">...nyerang Prakoso di dalam gang.</font>
-
-703
-01:24:02,102 --> 01:24:03,222
-<font color="#ffff00">Udah gila apa, ya?</font>
-
-704
-01:24:03,935 --> 01:24:05,803
-<font color="#ffff00">Habis semua yang udah kita lewatin
-selama ini...</font>
-
-705
-01:24:05,828 --> 01:24:07,662
-<font color="#ffff00">...mereka khianatin kita.
-Kita harus bales.</font>
-
-706
-01:24:07,687 --> 01:24:10,604
-<font color="#ffff00">Jedotin kepala orang sama pergi berperang
-itu dua hal yang berbeda!</font>
-
-707
-01:24:13,123 --> 01:24:15,201
-<font color="#ffff00">Pekerjaan Prakoso
-memang banyak bikin musuh.</font>
-
-708
-01:24:15,226 --> 01:24:17,884
-<font color="#ffff00">Jauh sebelum Goto, orang-orang Cina itu
-sudah kepingin dia mati.</font>
-
-709
-01:24:18,680 --> 01:24:20,573
-<font color="#ffff00">Ini bukan yang pertama kalinya
-dia diserang.</font>
-
-710
-01:24:21,984 --> 01:24:23,609
-<font color="#ffff00">Tapi sayangnya, ini yang terakhir.</font>
-
-711
-01:24:26,139 --> 01:24:28,884
-<font color="#ffff00">- Dari mana aja lo?
-- Ada apa nih?</font>
-
-712
-01:24:30,271 --> 01:24:32,189
-<font color="#ffff00">Habis semua yang sudah
-dia lakuin buat kita...</font>
-
-713
-01:24:32,214 --> 01:24:33,987
-<font color="#ffff00">...kayak gini cara kita
-balas budi sama dia?</font>
-
-714
-01:24:34,429 --> 01:24:37,509
-<font color="#ffff00">Koso di dunia ini
-cuma perduli sama Dwi...</font>
-
-715
-01:24:38,192 --> 01:24:39,525
-<font color="#ffff00">...dan anaknya.</font>
-
-716
-01:24:41,215 --> 01:24:44,162
-<font color="#ffff00">Dia nggak punya waktu untuk mencampuri
-urusan pekerjaan dengan urusan pribadi.</font>
-
-717
-01:24:44,187 --> 01:24:45,451
-<font color="#ffff00">Dia nggak ada waktu.</font>
-
-718
-01:24:46,184 --> 01:24:48,849
-<font color="#ffff00">Sekarang, tugas kita
-adalah menjaga keluarganya.</font>
-
-719
-01:24:49,158 --> 01:24:51,332
-<font color="#ffff00">Tapi kita nggak akan pernah
-menuntut balas!</font>
-
-720
-01:24:57,389 --> 01:24:58,629
-<font color="#ffff00">Anjing...</font>
-
-721
-01:24:58,654 --> 01:25:00,932
-<font color="#ffff00">Ka, lo coba ngomong deh sama bokap.</font>
-
-722
-01:25:01,367 --> 01:25:02,847
-<font color="#ffff00">Kita udah mulai nggak dianggep.</font>
-
-723
-01:25:04,724 --> 01:25:08,467
-<font color="#ffff00">Pa. Kita udah kuasain
-wilayah ini 30 tahun lebih!</font>
-
-724
-01:25:08,492 --> 01:25:12,092
-<font color="#ffff00">Keputusan saya adalah keputusan
-untuk berkuasa 30 tahun lagi!</font>
-
-725
-01:25:12,117 --> 01:25:13,210
-<font color="#ffff00">Paham kamu?</font>
-
-726
-01:25:13,681 --> 01:25:15,842
-<font color="#ffff00">Kalem kamu! Tenang.</font>
-
-727
-01:25:19,458 --> 01:25:22,391
-<font color="#ffff00">Harusnya kamu tahu di mana kamu berdiri.</font>
-
-728
-01:25:27,592 --> 01:25:28,525
-<font color="#ffff00">Uco!</font>
-
-729
-01:25:33,529 --> 01:25:34,502
-<font color="#ffff00">Yuda.</font>
-
-730
-01:25:37,723 --> 01:25:39,976
-<font color="#ffff00">Awasi dia, bawa dia keluar.</font>
-
-731
-01:25:40,407 --> 01:25:42,687
-<font color="#ffff00">Bikin dia lupa. Cariin dia perempuan...</font>
-
-732
-01:25:43,240 --> 01:25:44,773
-<font color="#ffff00">...supaya dia nggak mikirin ini lagi.</font>
-
-733
-01:25:46,882 --> 01:25:47,895
-<font color="#ffff00">Siap, Pak.</font>
-
-734
-01:25:59,353 --> 01:26:01,086
-<font color="#ffff00">Bajingan.</font>
-
-735
-01:26:04,593 --> 01:26:05,526
-<font color="#ffff00">Eka.</font>
-
-736
-01:26:09,025 --> 01:26:10,238
-<font color="#ffff00">Nggak bagus ini.</font>
-
-737
-01:26:11,656 --> 01:26:13,029
-<font color="#ffff00">Sama sekali nggak bagus.</font>
-
-738
-01:26:19,088 --> 01:26:20,141
-<font color="#ffff00">Uco.</font>
-
-739
-01:26:21,346 --> 01:26:22,439
-<font color="#ffff00">Uco.</font>
-
-740
-01:26:25,231 --> 01:26:27,444
-<font color="#ffff00">- Co, kenapa sih?
-- Lo pikir lo siapa?</font>
-
-741
-01:26:27,469 --> 01:26:28,587
-<font color="#ffff00">Bokap lo bener.</font>
-
-742
-01:26:28,873 --> 01:26:32,031
-<font color="#ffff00">Kalau sekarang lo rusuh, yang ada malah
-bikin kacau, nggak nyelesain masalah.</font>
-
-743
-01:26:32,056 --> 01:26:33,549
-<font color="#ffff00">Sok tahu banget lo tiba-tiba.</font>
-
-744
-01:26:34,210 --> 01:26:35,928
-<font color="#ffff00">Emang nggak enak banget keadaannya, Co...</font>
-
-745
-01:26:35,953 --> 01:26:38,471
-<font color="#ffff00">...tapi lo harus nahan diri.
-Gua udah pernah lepas kendali.</font>
-
-746
-01:26:38,592 --> 01:26:40,565
-<font color="#ffff00">- Lo lihat akibatnya ke gua, kan?
-- Akibatnya?</font>
-
-747
-01:26:40,894 --> 01:26:44,014
-<font color="#ffff00">Akibatnya lo sekarang tinggal di penthouse
-yang sewanya gua yang bayarin.</font>
-
-748
-01:26:44,125 --> 01:26:46,085
-<font color="#ffff00">Gua cuma mau bantu, gua tahu bokap lo...</font>
-
-749
-01:26:46,110 --> 01:26:47,108
-<font color="#ffff00">Diem lo!</font>
-
-750
-01:26:48,525 --> 01:26:50,350
-<font color="#ffff00">Lo pikir lo siapa? Ha?</font>
-
-751
-01:26:50,375 --> 01:26:51,868
-<font color="#ffff00">Lo pikir lo kenal sama bokap gua?</font>
-
-752
-01:26:52,713 --> 01:26:54,206
-<font color="#ffff00">Lo bukan siapa-siapanya dia.</font>
-
-753
-01:26:54,611 --> 01:26:57,329
-<font color="#ffff00">Kita cuma punya utang sama lo,
-dan kalau udah lunas...</font>
-
-754
-01:26:57,354 --> 01:26:59,567
-<font color="#ffff00">...habis itu, paling kita tendang lo.</font>
-
-755
-01:27:00,976 --> 01:27:02,949
-<font color="#ffff00">Kenapa? Lo ngeharapin apa?</font>
-
-756
-01:27:04,770 --> 01:27:05,743
-<font color="#ffff00">Mati aja lo!</font>
-
-757
-01:27:22,265 --> 01:27:23,840
-<font color="#ffff00">Sudah lampu hijau?</font>
-
-758
-01:27:23,865 --> 01:27:25,741
-<font color="#ffff00"><i>Bodo amat. Jalanin aja.</i></font>
-
-759
-01:28:07,171 --> 01:28:08,184
-<font color="#ffff00">Hajar.</font>
-
-760
-01:28:14,418 --> 01:28:16,991
-<font color="#ffff00">"Waktunya bekerja."</font>
-
-761
-01:28:17,339 --> 01:28:18,672
-<font color="#ffff00">"Berapa banyak?"</font>
-
-762
-01:28:19,494 --> 01:28:20,627
-<font color="#ffff00">"Beberapa."</font>
-
-763
-01:30:52,064 --> 01:30:52,964
-<font color="#ffff00">Awas!</font>
-
-764
-01:33:19,191 --> 01:33:20,644
-<font color="#ffff00">Ampuni saya.</font>
-
-765
-01:35:11,416 --> 01:35:12,389
-<font color="#ffff00">Sini bolanya.</font>
-
-766
-01:35:25,191 --> 01:35:26,452
-<font color="#ffff00">Lo salah.</font>
-
-767
-01:35:27,995 --> 01:35:30,315
-<font color="#ffff00">Jangan, Bang,
-tolong jangan bunuh saya!</font>
-
-768
-01:36:01,635 --> 01:36:03,484
-<font color="#ffff00">- Ke mana, Pak?
-- Tanah Abang, ya, Pak.</font>
-
-769
-01:36:03,509 --> 01:36:04,520
-<font color="#ffff00">Tanah Abang.</font>
-
-770
-01:38:13,392 --> 01:38:14,644
-<font color="#ffff00">Cukup.</font>
-
-771
-01:38:16,135 --> 01:38:19,069
-<font color="#ffff00">Sekarang harus berhenti semuanya.</font>
-
-772
-01:38:21,622 --> 01:38:22,862
-<font color="#ffff00">Pak Goto.</font>
-
-773
-01:38:24,133 --> 01:38:25,213
-<font color="#ffff00">Pak Bangun.</font>
-
-774
-01:38:26,049 --> 01:38:27,102
-<font color="#ffff00">Kalian lihat.</font>
-
-775
-01:38:29,416 --> 01:38:30,838
-<font color="#ffff00">Ini konflik...</font>
-
-776
-01:38:31,189 --> 01:38:33,656
-<font color="#ffff00">...antara kubu-kubu bapak-bapak...</font>
-
-777
-01:38:34,805 --> 01:38:36,685
-<font color="#ffff00">...sesudah 10 tahun lebih.</font>
-
-778
-01:38:39,150 --> 01:38:41,590
-<font color="#ffff00">Sekarang sudah banyak yang bobrok.</font>
-
-779
-01:38:43,937 --> 01:38:46,470
-<font color="#ffff00">Ini kalau diterusin begini terus...</font>
-
-780
-01:38:48,239 --> 01:38:50,372
-<font color="#ffff00">...bakal dibubarin kedua-duanya.</font>
-
-781
-01:38:50,905 --> 01:38:53,396
-<font color="#ffff00">Kami hanya bertindak sebagai pembalasan.</font>
-
-782
-01:38:53,421 --> 01:38:54,404
-<font color="#ffff00">Pembalasan?</font>
-
-783
-01:38:55,165 --> 01:38:57,502
-<font color="#ffff00">Bagaimana kamu menjelaskan
-apa yang terjadi pada Prakoso?</font>
-
-784
-01:38:57,913 --> 01:38:59,871
-<font color="#ffff00">Itu bukan atas perintah kami.</font>
-
-785
-01:38:59,968 --> 01:39:02,899
-<font color="#ffff00">Orang-orang itu tidak memiliki hubungan
-dengan kelompok ayahku.</font>
-
-786
-01:39:02,924 --> 01:39:04,949
-<font color="#ffff00">Oh, ya. Lalu siapa?</font>
-
-787
-01:39:05,165 --> 01:39:06,423
-<font color="#ffff00">Mungkin kamu tahu.</font>
-
-788
-01:39:12,208 --> 01:39:13,341
-<font color="#ffff00">Pak.</font>
-
-789
-01:39:14,184 --> 01:39:15,677
-<font color="#ffff00">Dengan segala hormat...</font>
-
-790
-01:39:16,184 --> 01:39:19,837
-<font color="#ffff00">...tapi pria yang kamu bicarakan
-sudah seperti saudara ayahku dan pamanku.</font>
-
-791
-01:39:20,623 --> 01:39:23,256
-<font color="#ffff00">Pria yang setia kepada keluarga kami
-selama lebih dari 30 tahun.</font>
-
-792
-01:39:24,264 --> 01:39:25,533
-<font color="#ffff00">Jika kamu bicara buruk tentang dia lagi...</font>
-
-793
-01:39:25,558 --> 01:39:26,931
-<font color="#ffff00">- ...aku bersumpah demi Tuhan...
-- Cukup!</font>
-
-794
-01:39:27,873 --> 01:39:29,206
-<font color="#ffff00">Cuma orang bodoh...</font>
-
-795
-01:39:29,998 --> 01:39:31,918
-<font color="#ffff00">...yang bicarakan harga diri
-orang yang sudah mati.</font>
-
-796
-01:39:34,929 --> 01:39:37,222
-<font color="#ffff00">Goto-san. Saya minta maaf.</font>
-
-797
-01:39:38,928 --> 01:39:40,314
-<font color="#ffff00">Tidak apa-apa.</font>
-
-798
-01:39:42,392 --> 01:39:44,817
-<font color="#ffff00">Saya akan bertanggung jawab, penuh.</font>
-
-799
-01:39:45,156 --> 01:39:46,196
+00:04:29,250 --> 00:04:30,250
 <font color="#ffff00">Apa?</font>
 
-800
-01:39:47,203 --> 01:39:51,081
-<font color="#ffff00">Sepertinya ada keputusan yang sudah
-diambil oleh anggota kelompok saya...</font>
-
-801
-01:39:51,263 --> 01:39:52,476
-<font color="#ffff00">...yang kurang cerdas...</font>
-
-802
-01:39:52,896 --> 01:39:54,389
-<font color="#ffff00">...dan kurang pengalaman.</font>
-
-803
-01:39:54,681 --> 01:39:56,439
-<font color="#ffff00">Untuk itu saya minta maaf.</font>
-
-804
-01:39:56,464 --> 01:39:58,622
-<font color="#ffff00">Atas apa yang terjadi
-di minggu-minggu terakhir ini.</font>
-
-805
-01:39:58,647 --> 01:40:00,220
-<font color="#ffff00">Dan saya akan ganti rugi.</font>
-
-806
-01:40:00,245 --> 01:40:02,923
-<font color="#ffff00">Untuk mencegah terjadinya
-pertumpahan darah di antara keluarga kami.</font>
-
-807
-01:40:05,669 --> 01:40:09,947
-<font color="#ffff00">Terima kasih atas penyelesaiannya
-yang singkat itu.</font>
-
-808
-01:40:09,972 --> 01:40:12,692
-<font color="#ffff00">Ya. Dan saya sekarang, permisi dulu.</font>
-
-809
-01:40:13,216 --> 01:40:14,749
-<font color="#ffff00">Saya harus kembali ke organisasi.</font>
-
-810
-01:40:15,408 --> 01:40:16,421
-<font color="#ffff00">Tentu.</font>
-
-811
-01:40:17,002 --> 01:40:18,095
-<font color="#ffff00">Permisi.</font>
-
-812
-01:41:39,127 --> 01:41:42,069
-<font color="#ffff00"><i>Gua udah denger kejadiannya.</i>
-<i>Lo nggak apa-apa, kan?</i></font>
-
-813
-01:41:42,094 --> 01:41:44,385
-<font color="#ffff00">Udah gila lo? Apa-apaan tadi?</font>
-
-814
-01:41:44,410 --> 01:41:46,448
-<font color="#ffff00">Kenapa polisi ngejar gua?
-Siapa yang nyuruh mereka?</font>
-
-815
-01:41:47,708 --> 01:41:48,868
-<font color="#ffff00"><i>Tenang.</i></font>
-
-816
-01:41:49,439 --> 01:41:53,092
-<font color="#ffff00"><i>Sejauh ini kelihatannya</i>
-<i>ini cuma soal perebutan kekuasaan.</i></font>
-
-817
-01:41:53,194 --> 01:41:55,592
-<font color="#ffff00"><i>Kelihatannya Reza berpihak</i>
-<i>kepada keluarga Goto.</i></font>
-
-818
-01:41:55,712 --> 01:41:57,005
-<font color="#ffff00">Gua mau berhenti sekarang.</font>
-
-819
-01:41:57,348 --> 01:41:58,509
-<font color="#ffff00"><i>Gua rasa nggak bisa.</i></font>
-
-820
-01:41:59,376 --> 01:42:01,629
-<font color="#ffff00">Nggak bisa gimana?
-Apa lagi yang belom gua lihat?</font>
-
-821
-01:42:01,732 --> 01:42:03,997
-<font color="#ffff00">Pembunuhan, pemerasan, penyogokan?</font>
-
-822
-01:42:04,022 --> 01:42:05,075
-<font color="#ffff00"><i>Korupsi.</i></font>
-
-823
-01:42:05,534 --> 01:42:09,159
-<font color="#ffff00"><i>Lo tahu sendiri, kan?</i>
-<i>Investigasi ini bukan soal Bangun.</i></font>
-
-824
-01:42:09,184 --> 01:42:11,677
-<font color="#ffff00"><i>Kita pengen polisi-polisi</i>
-<i>yang mereka suap.</i></font>
-
-825
-01:42:11,702 --> 01:42:14,380
-<font color="#ffff00"><i>Lo pikir lo sendirian?</i>
-<i>Ini bukan tentang lo.</i></font>
-
-826
-01:42:15,082 --> 01:42:16,335
-<font color="#ffff00"><i>Kita bukan pahlawan di sini.</i></font>
-
-827
-01:42:17,400 --> 01:42:20,120
-<font color="#ffff00"><i>Kita semua terperangkap</i>
-<i>di jaringan yang besar.</i></font>
-
-828
-01:42:21,424 --> 01:42:22,437
-<font color="#ffff00"><i>Dengar dulu.</i></font>
-
-829
-01:42:22,993 --> 01:42:24,766
-<font color="#ffff00"><i>Identitas lo masih aman.</i></font>
-
-830
-01:42:56,572 --> 01:42:59,377
-<font color="#ffff00"><i>Yuda, lo ke mana aja? Gua nyariin lo.</i></font>
-
-831
-01:42:59,402 --> 01:43:01,134
-<font color="#ffff00"><i>Ke kantor sekarang.</i>
-<i>Buruan bawa Uco pergi.</i></font>
-
-832
-01:43:01,852 --> 01:43:03,460
-<font color="#ffff00"><i>Gua udah nggak bisa nahan Bangun lagi.</i></font>
-
-833
-01:43:29,416 --> 01:43:33,804
-<font color="#ffff00">Sudah berapa orang yang mati
-gara-gara permainan kamu? Ha?</font>
-
-834
-01:43:35,275 --> 01:43:38,415
-<font color="#ffff00">Hei. Semua saya siapin buat kamu.</font>
-
-835
-01:43:38,609 --> 01:43:42,047
-<font color="#ffff00">Untuk kamu! Tapi kamu...
-Kamu hancurin.</font>
-
-836
-01:43:42,183 --> 01:43:44,716
-<font color="#ffff00">Kamu hancurin
-sampai nggak ada sisanya. Ha?</font>
-
-837
-01:43:45,087 --> 01:43:46,260
-<font color="#ffff00">Buat apa?</font>
-
-838
-01:43:49,197 --> 01:43:50,317
-<font color="#ffff00">Buat apa?</font>
-
-839
-01:43:52,489 --> 01:43:53,702
-<font color="#ffff00">Jawab!</font>
-
-840
-01:43:53,967 --> 01:43:56,272
-<font color="#ffff00">Buat apa. Ha?</font>
-
-841
-01:43:56,439 --> 01:43:58,572
-<font color="#ffff00">- Ayo, buat apa?
-- Pa...</font>
-
-842
-01:43:58,597 --> 01:43:59,755
-<font color="#ffff00">- Buat apa?
-- Papa...</font>
-
-843
-01:43:59,780 --> 01:44:02,650
-<font color="#ffff00">Dengerin dulu... Papa...</font>
-
-844
-01:44:02,675 --> 01:44:04,701
-<font color="#ffff00">Papa, dengerin.</font>
-
-845
-01:44:04,726 --> 01:44:05,681
-<font color="#ffff00">Buat apa?</font>
-
-846
-01:44:05,706 --> 01:44:06,711
-<font color="#ffff00">Tai!</font>
-
-847
-01:44:07,634 --> 01:44:09,301
-<font color="#ffff00">Bapak malu sama saya?</font>
-
-848
-01:44:09,326 --> 01:44:11,244
-<font color="#ffff00">Saya malu sama Bapak!</font>
-
-849
-01:44:11,627 --> 01:44:13,989
-<font color="#ffff00">Apaan tuh tadi? Ha?</font>
-
-850
-01:44:14,014 --> 01:44:15,547
-<font color="#ffff00">Mana harga diri Bapak?</font>
-
-851
-01:44:16,635 --> 01:44:19,244
-<font color="#ffff00">Minta maaf sama bangsat-bangsat itu.</font>
-
-852
-01:44:19,814 --> 01:44:23,174
-<font color="#ffff00">Dalam bahasa mereka, di tanah kita!</font>
-
-853
-01:44:25,698 --> 01:44:28,111
-<font color="#ffff00">Papa mau tahu
-kenapa saya ngelakuin semua ini?</font>
-
-854
-01:44:29,560 --> 01:44:32,693
-<font color="#ffff00">Saya sudah capek. Saya sudah capek nunggu.</font>
-
-855
-01:44:34,464 --> 01:44:37,317
-<font color="#ffff00">Saya sudah capek lihat Papa
-cuma diem aja.</font>
-
-856
-01:44:39,931 --> 01:44:41,252
-<font color="#ffff00">Papa udah punya masa kejayaan.</font>
-
-857
-01:44:41,277 --> 01:44:44,036
-<font color="#ffff00">Mana masa kejayaan saya? Mana?</font>
-
-858
-01:44:46,236 --> 01:44:48,314
-<font color="#ffff00">Nagihin uang keamanan sama pemadat?</font>
-
-859
-01:44:49,594 --> 01:44:52,207
-<font color="#ffff00">Itu bukan pekerjaan calon bos, Pa.</font>
-
-860
-01:44:52,916 --> 01:44:54,764
-<font color="#ffff00">Bukan kerjaan calon bos!</font>
-
-861
-01:44:58,204 --> 01:44:59,524
-<font color="#ffff00">Kamu gila, Co.</font>
-
-862
-01:45:00,471 --> 01:45:02,204
-<font color="#ffff00">Kamu bikin hancur semuanya.</font>
-
-863
-01:45:06,311 --> 01:45:09,752
-<font color="#ffff00">Papa...</font>
-
-864
-01:45:09,777 --> 01:45:11,080
-<font color="#ffff00">Pa, semua...</font>
-
-865
-01:45:11,604 --> 01:45:14,229
-<font color="#ffff00">Semua yang kita kehilangan...</font>
-
-866
-01:45:14,271 --> 01:45:16,228
-<font color="#ffff00">...kita bisa raih kembali lagi.</font>
-
-867
-01:45:16,253 --> 01:45:17,844
-<font color="#ffff00">Kita bisa dapet lagi semuanya.</font>
-
-868
-01:45:19,017 --> 01:45:21,429
-<font color="#ffff00">Percaya sama saya, Pa, saya pasti bisa.</font>
-
-869
-01:45:21,454 --> 01:45:24,467
-<font color="#ffff00">Saya pasti bisa!</font>
-
-870
-01:45:27,441 --> 01:45:28,534
-<font color="#ffff00">Oke, cukup.</font>
-
-871
-01:45:30,621 --> 01:45:31,701
-<font color="#ffff00">Cukup.</font>
-
-872
-01:45:39,631 --> 01:45:43,174
-<font color="#ffff00">Eka, kita siapkan
-paket perdamaian buat Goto.</font>
-
-873
-01:45:43,199 --> 01:45:45,267
-<font color="#ffff00">Kita serahkan Menteng sama Sabang
-buat mereka.</font>
-
-874
-01:45:46,300 --> 01:45:48,300
-<font color="#ffff00">- Ya?
-- Siap, Bos.</font>
-
-875
-01:45:56,197 --> 01:45:57,925
-<font color="#ffff00">Pak, maaf. Di sana masih ada...</font>
-
-876
-01:46:23,591 --> 01:46:24,787
-<font color="#ffff00">Maafin saya.</font>
-
-877
-01:47:02,279 --> 01:47:03,444
-<font color="#ffff00">Anjing...</font>
-
-878
-01:47:19,896 --> 01:47:21,844
-<font color="#ffff00">Uco, apa-apaan ini, Co?</font>
-
-879
-01:47:50,511 --> 01:47:51,644
-<font color="#ffff00">Eka, lari!</font>
-
-880
-01:48:29,115 --> 01:48:30,484
-<font color="#ffff00">Jadi, mau diapain dia?</font>
-
-881
-01:48:38,921 --> 01:48:39,894
-<font color="#ffff00">Bawa aja.</font>
-
-882
-01:56:28,632 --> 01:56:29,805
+55
+00:04:30,333 --> 00:04:34,041
+<font color="#ffff00">Dia jadi gila karena utangnya
+dan menghilang sendiri, bukan?</font>
+
+56
+00:04:34,125 --> 00:04:40,125
+<font color="#ffff00">Semua di desa ini tahu
+ayahmu menjadi gila.</font>
+
+57
+00:04:40,208 --> 00:04:41,208
+<font color="#ffff00">Hei!</font>
+
+58
+00:04:41,500 --> 00:04:42,500
+<font color="#ffff00">Ada apa ini?</font>
+
+59
+00:04:43,083 --> 00:04:44,083
+<font color="#ffff00">Apa yang terjadi?</font>
+
+60
+00:04:44,166 --> 00:04:45,541
+<font color="#ffff00">Ayahku tidak gila.</font>
+
+61
+00:04:45,625 --> 00:04:48,458
+<font color="#ffff00">Hei! Apa yang kau lakukan?</font>
+
+62
+00:04:50,666 --> 00:04:51,666
+<font color="#ffff00">Kosong, bukan?</font>
+
+63
+00:04:52,416 --> 00:04:53,416
+<font color="#ffff00">Sudah kuduga.</font>
+
+64
+00:04:54,958 --> 00:04:56,166
 <font color="#ffff00">Apa maksudmu?</font>
 
-883
-01:56:34,521 --> 01:56:35,654
-<font color="#ffff00">Ya, aku mengerti.</font>
-
-884
-01:56:37,715 --> 01:56:39,376
-<font color="#ffff00">Aku akan menghubungi kembali nanti.</font>
-
-885
-01:56:51,762 --> 01:56:55,044
-<font color="#ffff00">Reza baru saja terlihat
-memasuki restoran Bejo.</font>
-
-886
-01:56:59,233 --> 01:57:00,726
-<font color="#ffff00">Kukira kita sudah mengamankannya.</font>
-
-887
-01:57:02,215 --> 01:57:04,221
-<font color="#ffff00">Kupikir juga begitu.</font>
-
-888
-01:57:10,400 --> 01:57:12,053
-<font color="#ffff00">Lantas kenapa dia bisa ke sana?</font>
-
-889
-01:57:21,587 --> 01:57:22,600
-<font color="#ffff00">Ha?</font>
-
-890
-01:57:24,385 --> 01:57:25,478
-<font color="#ffff00">Dia...</font>
-
-891
-01:57:26,257 --> 01:57:28,870
-<font color="#ffff00">...bukan siapa-siapa lagi,
-awasi dia sekarang!</font>
-
-892
-01:57:32,410 --> 01:57:35,153
-<font color="#ffff00">- Lalu Reza dan pengikut mereka...
-- Bos, tunggu.</font>
-
-893
-01:57:38,311 --> 01:57:41,604
-<font color="#ffff00">Bejo tidak sendirian.</font>
-
-894
-01:57:43,895 --> 01:57:45,524
-<font color="#ffff00">Dia bersama dengan Uco.</font>
-
-895
-01:57:47,098 --> 01:57:49,284
-<font color="#ffff00">Sepertinya mereka telah bergabung...</font>
-
-896
-01:57:50,090 --> 01:57:51,524
-<font color="#ffff00">...setelah menyingkirkan Bangun.</font>
-
-897
-01:57:54,714 --> 01:57:56,685
-<font color="#ffff00">Dia ditembak di kepala.</font>
-
-898
-01:57:59,590 --> 01:58:00,764
-<font color="#ffff00">Bejo...</font>
-
-899
-01:58:01,918 --> 01:58:04,124
-<font color="#ffff00">...sekarang serius
-ingin menjadi nomor satu.</font>
-
-900
-01:58:05,457 --> 01:58:07,444
-<font color="#ffff00">Dia sekarang menjadi ancaman.</font>
-
-901
-01:58:10,926 --> 01:58:12,844
-<font color="#ffff00">Semuanya bisa diatur.</font>
-
-902
-01:58:15,457 --> 01:58:16,762
-<font color="#ffff00">Apa yang harus kita lakukan?</font>
-
-903
-01:58:16,787 --> 01:58:18,027
-<font color="#ffff00">Kita berperang!</font>
-
-904
-01:58:19,889 --> 01:58:21,662
-<font color="#ffff00">Jika dia berani
-membunuh ayahnya sendiri...</font>
-
-905
-01:58:23,265 --> 01:58:24,878
-<font color="#ffff00">...maka dia tidak akan ragu
-membunuh kita.</font>
-
-906
-01:58:27,039 --> 01:58:28,332
-<font color="#ffff00">Kita mulai dari awal.</font>
-
-907
-01:58:32,353 --> 01:58:33,886
-<font color="#ffff00">Aku ingin Uco dan Bejo mati malam ini.</font>
-
-908
-01:58:36,513 --> 01:58:38,244
-<font color="#ffff00">Reza dan pengikutnya juga.</font>
-
-909
-01:58:38,269 --> 01:58:40,429
-<font color="#ffff00">Tunggu sebentar, ini bercanda, kan?</font>
-
-910
-01:58:42,107 --> 01:58:43,640
-<font color="#ffff00">Mereka bukan polisi lagi.</font>
-
-911
-01:58:46,016 --> 01:58:47,389
-<font color="#ffff00">Mereka ada di duniaku sekarang.</font>
-
-912
-01:59:10,621 --> 01:59:11,741
-<font color="#ffff00">Eka!</font>
-
-913
-01:59:18,040 --> 01:59:19,373
-<font color="#ffff00">Gua tahu lo siapa.</font>
-
-914
-01:59:20,480 --> 01:59:21,820
-<font color="#ffff00">Gua tahu lo dari mana.</font>
-
-915
-01:59:27,631 --> 01:59:29,151
-<font color="#ffff00">Gua pernah bilang sama lo...</font>
-
-916
-01:59:31,903 --> 01:59:33,549
-<font color="#ffff00">...kita berasal dari tempat yang sama.</font>
-
-917
-01:59:37,180 --> 01:59:38,300
-<font color="#ffff00">Gua harap...</font>
-
-918
-01:59:39,888 --> 01:59:41,381
-<font color="#ffff00">...nasib kita nggak berakhir sama.</font>
-
-919
-01:59:45,816 --> 01:59:47,309
-<font color="#ffff00">Gua nggak peduli mereka bilang apa.</font>
-
-920
-01:59:50,020 --> 01:59:51,143
-<font color="#ffff00">Gua nggak berkhianat.</font>
-
-921
-01:59:52,411 --> 01:59:53,544
-<font color="#ffff00">Gua bukan penjahat.</font>
-
-922
-01:59:57,840 --> 01:59:59,135
-<font color="#ffff00">Ini nggak akan ada habisnya.</font>
-
-923
-02:00:01,653 --> 02:00:02,924
-<font color="#ffff00">Kalau lo kabur...</font>
-
-924
-02:00:04,543 --> 02:00:05,844
-<font color="#ffff00">...mereka akan ngejar.</font>
-
-925
-02:00:09,011 --> 02:00:10,436
-<font color="#ffff00">Tiap satu kepala yang hilang...</font>
-
-926
-02:00:13,223 --> 02:00:14,564
-<font color="#ffff00">...akan tumbuh satu lagi.</font>
-
-927
-02:00:19,043 --> 02:00:20,324
-<font color="#ffff00">Kalau lo mau berhenti...</font>
-
-928
-02:00:23,699 --> 02:00:25,084
-<font color="#ffff00">...lo habisin mereka.</font>
-
-929
-02:00:29,012 --> 02:00:30,014
-<font color="#ffff00">Semuanya.</font>
-
-930
-02:00:37,231 --> 02:00:38,479
-<font color="#ffff00">Ka, tunggu.</font>
-
-931
-02:01:44,621 --> 02:01:46,981
-<font color="#ffff00">Kenapa lo nggak bilang kalau ada intel
-yang deketin Bangun?</font>
-
-932
-02:01:47,699 --> 02:01:49,110
-<font color="#ffff00"><i>Lo ngomong apa?</i></font>
-
-933
-02:01:49,878 --> 02:01:50,972
-<font color="#ffff00">Eka.</font>
-
-934
-02:01:51,261 --> 02:01:52,326
-<font color="#ffff00"><i>Bajingan itu?</i></font>
-
-935
-02:01:52,993 --> 02:01:54,791
-<font color="#ffff00">Bajingan itu yang bikin gua selamat.</font>
-
-936
-02:01:54,816 --> 02:01:57,606
-<font color="#ffff00"><i>Oh, ya, dan dia bikin</i>
-<i>sepuluh polisi jujur tewas...</i></font>
-
-937
-02:01:57,631 --> 02:02:00,052
-<font color="#ffff00"><i>...karena info dari dia</i>
-<i>ternyata bikin sesat.</i></font>
-
-938
-02:02:00,712 --> 02:02:02,325
-<font color="#ffff00"><i>Dia sudah membelot, Rama.</i></font>
-
-939
-02:02:03,256 --> 02:02:05,549
-<font color="#ffff00">Dan lo nggak kepikiran
-buat bilang sama gua?</font>
-
-940
-02:02:06,709 --> 02:02:09,309
-<font color="#ffff00"><i>Sekarang bukan waktunya.</i>
-<i>Komisaris sudah mati.</i></font>
-
-941
-02:02:09,989 --> 02:02:12,255
-<font color="#ffff00"><i>Mayat sudah mulai nongol di mana-mana.</i></font>
-
-942
-02:02:13,559 --> 02:02:15,724
-<font color="#ffff00"><i>Nggak ada yang namanya</i>
-<i>perang bersih, Letnan.</i></font>
-
-943
-02:02:15,749 --> 02:02:18,707
-<font color="#ffff00">Mungkin. Tapi kita masih bisa
-melacak Reza.</font>
-
-944
-02:02:19,409 --> 02:02:21,796
-<font color="#ffff00">Melalui rekaman suara
-yang ada di penyadap Uco.</font>
-
-945
-02:02:23,631 --> 02:02:24,804
-<font color="#ffff00">Mereka kerja sama?</font>
-
-946
-02:02:25,473 --> 02:02:26,801
-<font color="#ffff00"><i>Setahu kita begitu.</i></font>
-
-947
-02:02:26,826 --> 02:02:29,906
-<font color="#ffff00"><i>Sinyal hilang barusan,</i>
-<i>tapi kita menuju ke arah sana.</i></font>
-
-948
-02:02:34,625 --> 02:02:36,278
-<font color="#ffff00">Gua cuma punya satu pertanyaan.</font>
-
-949
-02:02:37,151 --> 02:02:38,351
-<font color="#ffff00">Gua nggak pengen tahu yang lain.</font>
-
-950
-02:02:40,008 --> 02:02:41,061
-<font color="#ffff00">Keluarga gua aman?</font>
-
-951
-02:02:41,791 --> 02:02:43,084
-<font color="#ffff00"><i>Ya, mereka aman.</i></font>
-
-952
-02:02:45,121 --> 02:02:47,381
-<font color="#ffff00">- Mereka harus tetap aman.
-<i>- Rama! Tunggu...</i></font>
-
-953
-02:02:54,942 --> 02:02:56,061
-<font color="#ffff00">Awasin saya.</font>
-
-954
-02:05:47,801 --> 02:05:50,239
-<font color="#ffff00">Maaf, Pak, mau tisu?</font>
-
-955
-02:05:50,264 --> 02:05:52,229
-<font color="#ffff00">Iya, lo mau duit apa enggak?
-Sini tisunya.</font>
-
-956
-02:05:52,254 --> 02:05:53,267
-<font color="#ffff00">Ya, Pak.</font>
-
-957
-02:05:59,576 --> 02:06:00,509
-<font color="#ffff00">Maaf, Pak.</font>
-
-958
-02:06:32,236 --> 02:06:33,549
-<font color="#ffff00">Ya, pasti bisa, dong.</font>
-
-959
-02:06:33,574 --> 02:06:36,164
-<font color="#ffff00">Apa saja yang kita mau. Kita yang atur.</font>
-
-960
-02:06:38,456 --> 02:06:40,629
-<font color="#ffff00">Yang penting imbalannya.</font>
-
-961
-02:06:41,831 --> 02:06:44,044
-<font color="#ffff00">Muka baru, ya harga baru.</font>
-
-962
-02:06:45,095 --> 02:06:46,188
-<font color="#ffff00">Harga baru?</font>
-
-963
-02:06:46,721 --> 02:06:47,854
-<font color="#ffff00">Ayolah, Reza.</font>
-
-964
-02:06:49,725 --> 02:06:51,525
-<font color="#ffff00">Anggap saja ini harga perkenalan.</font>
-
-965
-02:06:54,175 --> 02:06:55,628
-<font color="#ffff00">Goto bayar berapa?</font>
-
-966
-02:06:56,685 --> 02:06:58,245
-<font color="#ffff00">Nggak cerdas pertanyaanmu.</font>
-
-967
-02:06:59,469 --> 02:07:00,549
-<font color="#ffff00">Salahnya di mana?</font>
-
-968
-02:07:02,494 --> 02:07:05,414
-<font color="#ffff00">Di sini gua ketemu lo, bukan dia.</font>
-
-969
-02:07:05,946 --> 02:07:07,079
-<font color="#ffff00">Pikir satu angka.</font>
-
-970
-02:07:08,081 --> 02:07:10,774
-<font color="#ffff00">Habis makan gua tetep di sini,
-berarti oke.</font>
-
-971
-02:07:16,216 --> 02:07:17,149
-<font color="#ffff00">Oi.</font>
-
-972
-02:07:18,211 --> 02:07:19,211
-<font color="#ffff00">Jongos.</font>
-
-973
-02:07:20,269 --> 02:07:21,309
-<font color="#ffff00">Diem aja lo.</font>
-
-974
-02:07:31,383 --> 02:07:32,476
-<font color="#ffff00">Bos.</font>
-
-975
-02:07:33,197 --> 02:07:34,730
-<font color="#ffff00">Orang itu kabur dari mobil, Bos.</font>
-
-976
-02:07:38,675 --> 02:07:39,888
-<font color="#ffff00">Kumpulin semua orang.</font>
-
-977
-02:07:40,569 --> 02:07:42,622
-<font color="#ffff00">Siapa yang bisa dapetin dia...</font>
-
-978
-02:07:43,295 --> 02:07:44,877
-<font color="#ffff00">Dia sudah di sini, Bos.</font>
-
-979
-02:07:44,902 --> 02:07:46,155
-<font color="#ffff00">Menuju ke atas.</font>
-
-980
-02:07:49,108 --> 02:07:50,988
-<font color="#ffff00">- Tahan dia.
-- Ya, Bos.</font>
-
-981
-02:07:53,775 --> 02:07:54,908
-<font color="#ffff00">Semuanya beres?</font>
-
-982
-02:07:59,688 --> 02:08:00,661
-<font color="#ffff00">Urusin dia.</font>
-
-983
-02:08:12,244 --> 02:08:13,374
-<font color="#ffff00">Reza.</font>
-
-984
-02:08:14,576 --> 02:08:15,736
-<font color="#ffff00">Tenang aja.</font>
-
-985
-02:08:15,761 --> 02:08:18,338
-<font color="#ffff00">Ini semua masih dalam kontrol kita.</font>
-
-986
-02:08:18,363 --> 02:08:19,846
-<font color="#ffff00">Mereka ini orang-orang andal...</font>
-
-987
-02:08:22,744 --> 02:08:23,717
-<font color="#ffff00">Bangsat!</font>
-
-988
-02:09:48,939 --> 02:09:50,092
-<font color="#ffff00">Sini bolanya.</font>
-
-989
-02:09:58,143 --> 02:09:59,444
-<font color="#ffff00">"Seperti biasa."</font>
-
-990
-02:11:21,174 --> 02:11:22,244
-<font color="#ffff00">Tidak!</font>
-
-991
-02:19:41,065 --> 02:19:42,124
-<font color="#ffff00">Reza!</font>
-
-992
-02:24:49,960 --> 02:24:51,093
-<font color="#ffff00">Nggak.</font>
-
-993
-02:24:54,620 --> 02:24:55,616
-<font color="#ffff00">Cukup.</font>
+65
+00:04:56,250 --> 00:04:58,250
+<font color="#ffff00">Tidak mungkin ada mayat di sana.</font>
+
+66
+00:04:58,333 --> 00:05:00,291
+<font color="#ffff00">Karena sekarang ada di dalam perut mereka!</font>
+
+67
+00:05:01,000 --> 00:05:03,000
+<font color="#ffff00">Mereka kanibal.</font>
+
+68
+00:05:03,083 --> 00:05:04,000
+<font color="#ffff00">Apa?</font>
+
+69
+00:05:04,083 --> 00:05:05,403
+<font color="#ffff00">Tidak mungkin kami melakukan itu!</font>
+
+70
+00:05:05,458 --> 00:05:07,625
+<font color="#ffff00">- Minta maaf pada Nenek Gin!
+- Apa kau bilang?</font>
+
+71
+00:05:07,708 --> 00:05:09,625
+<font color="#ffff00">- Kami bukan kanibal!
+- Omong kosong!</font>
+
+72
+00:05:09,750 --> 00:05:12,041
+<font color="#ffff00">- Akan kubunuh kau!
+- Kami bukan kanibal!</font>
+
+73
+00:05:12,166 --> 00:05:13,750
+<font color="#ffff00">- Kau gila!
+- Minta maaf pada Nenek Gin!</font>
+
+74
+00:05:14,416 --> 00:05:17,083
+<font color="#ffff00">Kau sadar akan hal
+yang baru saja kau lakukan?</font>
+
+75
+00:05:17,166 --> 00:05:18,166
+<font color="#ffff00">Jangan main-main kau!</font>
+
+76
+00:05:18,208 --> 00:05:20,125
+<font color="#ffff00">Akan kupecahkan kepalamu!</font>
+
+77
+00:05:54,583 --> 00:05:55,583
+<font color="#ffff00">Pergilah.</font>
+
+78
+00:05:56,416 --> 00:05:57,333
+<font color="#ffff00">Pak Polisi!</font>
+
+79
+00:05:57,416 --> 00:05:58,666
+<font color="#ffff00">Bawa dia pergi.</font>
+
+80
+00:06:46,291 --> 00:06:47,833
+<font color="#ffff00">- Yuki.
+- Ya?</font>
+
+81
+00:06:47,916 --> 00:06:49,250
+<font color="#ffff00">Aku akan mengantarnya ke stasiun.</font>
+
+82
+00:06:50,916 --> 00:06:51,916
+<font color="#ffff00">Hei...</font>
+
+83
+00:06:53,083 --> 00:06:55,083
+<font color="#ffff00">- Apa yang terjadi?
+- Akan kuceritakan nanti.</font>
+
+84
+00:06:55,166 --> 00:06:56,333
+<font color="#ffff00">Hati-hati, ya.</font>
+
+85
+00:07:15,708 --> 00:07:18,458
+<font color="#ffff00">Kau bilang keluarga Goto adalah kanibal.</font>
+
+86
+00:07:20,625 --> 00:07:22,125
+<font color="#ffff00">Sebutannya endokanibalisme.</font>
+
+87
+00:07:24,291 --> 00:07:25,791
+<font color="#ffff00">Itu semacam penguburan</font>
+
+88
+00:07:26,541 --> 00:07:29,101
+<font color="#ffff00">di mana keluarga yang berduka
+memakan mayat orang yang meninggal,</font>
+
+89
+00:07:29,791 --> 00:07:33,583
+<font color="#ffff00">menjadikan mayat bagian dari tubuh mereka,
+dan mengambil kehendak dan rohnya.</font>
+
+90
+00:07:35,458 --> 00:07:38,333
+<font color="#ffff00">Itu bentuk ekspresi dari cinta
+dan bakti mereka bagi almarhum.</font>
+
+91
+00:07:41,250 --> 00:07:44,291
+<font color="#ffff00">Maksudmu itu cara mereka berkabung?</font>
+
+92
+00:07:46,000 --> 00:07:52,416
+<font color="#ffff00">Suku Fore di Papua Nugini
+melakukan endokanibalisme hingga 1950-an.</font>
+
+93
+00:07:56,708 --> 00:07:58,375
+<font color="#ffff00">Menurutmu aku gila?</font>
+
+94
+00:07:58,875 --> 00:07:59,875
+<font color="#ffff00">Tidak.</font>
+
+95
+00:08:00,250 --> 00:08:01,791
+<font color="#ffff00">Menurutku kau tidak gila.</font>
+
+96
+00:08:05,416 --> 00:08:09,583
+<font color="#ffff00">Aku mencari tahu tentang endokanibalisme
+setelah ayahku menghilang.</font>
+
+97
+00:08:10,958 --> 00:08:13,375
+<font color="#ffff00">Dia bilang keluarga Goto adalah kanibal.</font>
+
+98
+00:08:17,083 --> 00:08:18,166
+<font color="#ffff00">Ayahmu?</font>
+
+99
+00:08:19,000 --> 00:08:20,083
+<font color="#ffff00">Maksudmu Pak Kano?</font>
+
+100
+00:08:20,583 --> 00:08:21,583
+<font color="#ffff00">Ya.</font>
+
+101
+00:08:23,875 --> 00:08:25,791
+<font color="#ffff00">Apa keluarga Goto terlibat?</font>
+
+102
+00:08:25,875 --> 00:08:27,750
+<font color="#ffff00">Aku tidak bisa berpikir sebaliknya.</font>
+
+103
+00:08:29,708 --> 00:08:33,750
+<font color="#ffff00">Ayahku tidak pernah bermain pachinko
+seumur hidupnya.</font>
+
+104
+00:08:34,708 --> 00:08:36,625
+<font color="#ffff00">Dia juga tidak mengundurkan diri.</font>
+
+105
+00:08:39,000 --> 00:08:41,166
+<font color="#ffff00">Mereka menjebaknya.</font>
+
+106
+00:09:02,208 --> 00:09:04,625
+<font color="#ffff00">Kali terakhir aku melihat ayahku...</font>
+
+107
+00:09:06,791 --> 00:09:09,666
+<font color="#ffff00">adalah saat dia hendak pergi ke rumah
+keluarga Goto dengan terburu-buru.</font>
+
+108
+00:09:17,791 --> 00:09:19,125
+<font color="#ffff00">Ya.</font>
+
+109
+00:09:19,208 --> 00:09:20,333
+<font color="#ffff00">Baiklah.</font>
+
+110
+00:09:20,625 --> 00:09:21,708
+<font color="#ffff00">Ya.</font>
+
+111
+00:09:21,791 --> 00:09:23,375
+<font color="#ffff00">Aku mengerti sekarang.</font>
+
+112
+00:09:24,083 --> 00:09:25,083
+<font color="#ffff00">Ya.</font>
+
+113
+00:09:26,958 --> 00:09:31,583
+<font color="#ffff00">Aku akan pergi sekarang.</font>
+
+114
+00:09:42,000 --> 00:09:44,375
+<font color="#ffff00">Oh, Sumire. Kau datang?</font>
+
+115
+00:09:44,666 --> 00:09:46,083
+<font color="#ffff00">Lama tidak bertemu, Ayah.</font>
+
+116
+00:09:47,041 --> 00:09:48,416
+<font color="#ffff00">Di mana Ibu?</font>
+
+117
+00:09:49,250 --> 00:09:50,458
+<font color="#ffff00">Ibumu masih tidur.</font>
+
+118
+00:09:55,666 --> 00:09:56,866
+<font color="#ffff00">Ayah akan pergi ke rumah Goto.</font>
+
+119
+00:09:57,875 --> 00:09:58,875
+<font color="#ffff00">Ayah baik-baik saja?</font>
+
+120
+00:10:02,583 --> 00:10:03,583
+<font color="#ffff00">Kenapa?</font>
+
+121
+00:10:04,416 --> 00:10:05,416
+<font color="#ffff00">Hanya saja...</font>
+
+122
+00:10:06,875 --> 00:10:08,375
+<font color="#ffff00">ekspresi Ayah terlihat menakutkan.</font>
+
+123
+00:10:11,250 --> 00:10:13,250
+<font color="#ffff00">Berhentilah berurusan
+dengan keluarga Goto.</font>
+
+124
+00:10:15,291 --> 00:10:16,291
+<font color="#ffff00">Ada cerpelai.</font>
+
+125
+00:10:17,750 --> 00:10:18,750
+<font color="#ffff00">Apa?</font>
+
+126
+00:10:19,833 --> 00:10:21,583
+<font color="#ffff00">Dia membuat sarang di loteng.</font>
+
+127
+00:10:24,583 --> 00:10:26,083
+<font color="#ffff00">Dia lumayan jinak...</font>
+
+128
+00:10:29,000 --> 00:10:31,666
+<font color="#ffff00">Perlakukan dia dengan baik, ya?</font>
+
+129
+00:10:35,208 --> 00:10:37,625
+<font color="#ffff00"><i>Aku tak pernah melihat Ayah
+seperti itu sebelumnya.</i></font>
+
+130
+00:10:41,708 --> 00:10:43,125
+<font color="#ffff00">Apakah kau ceritakan itu ke polisi?</font>
+
+131
+00:10:44,208 --> 00:10:46,583
+<font color="#ffff00">"Dia adalah anak dari polisi gila."</font>
+
+132
+00:10:47,250 --> 00:10:49,041
+<font color="#ffff00">"Dia juga pasti gila."</font>
+
+133
+00:10:50,208 --> 00:10:51,875
+<font color="#ffff00">Begitulah cara mereka memandangku.</font>
+
+134
+00:10:52,625 --> 00:10:53,958
+<font color="#ffff00">Berapa kali pun aku menjelaskan.</font>
+
+135
+00:10:55,666 --> 00:10:56,666
+<font color="#ffff00">Begitu, ya.</font>
+
+136
+00:11:02,916 --> 00:11:05,083
+<font color="#ffff00">Apakah kau berbeda dari mereka?</font>
+
+137
+00:11:20,208 --> 00:11:22,541
+<font color="#ffff00">Semuanya berawal dari keluarga Goto.</font>
+
+138
+00:11:23,541 --> 00:11:25,500
+<font color="#ffff00">Pasti ada sesuatu di rumah itu.</font>
+
+139
+00:11:27,125 --> 00:11:29,458
+<font color="#ffff00">Pak Kano sudah hilang selama dua minggu.</font>
+
+140
+00:11:33,583 --> 00:11:36,416
+<font color="#ffff00">Kalau mereka mengurungnya,
+mungkin dia masih bisa diselamatkan.</font>
+
+141
+00:11:39,125 --> 00:11:41,041
+<font color="#ffff00">Berhati-hatilah
+kalau ingin menyelidiki mereka.</font>
+
+142
+00:11:43,000 --> 00:11:44,458
+<font color="#ffff00">Terima kasih sudah mengantarkanku.</font>
+
+143
+00:11:49,166 --> 00:11:53,000
+<font color="#ffff00">STASIUN YATA</font>
+
+144
+00:12:49,291 --> 00:12:56,041
+<font color="#ffff00">JALAN DITUTUP
+DILARANG MASUK</font>
+
+145
+00:13:27,583 --> 00:13:28,750
+<font color="#ffff00">Hei! Hampir saja!</font>
+
+146
+00:13:29,375 --> 00:13:32,875
+<font color="#ffff00">Kau! Ini properti pribadi keluarga Goto.</font>
+
+147
+00:13:36,250 --> 00:13:39,750
+<font color="#ffff00">Aku hendak ke rumah keluarga Goto
+untuk menyelidiki tentang Petugas Kano.</font>
+
+148
+00:13:43,208 --> 00:13:45,666
+<font color="#ffff00">Bukankah terjadi sesuatu padanya di sana?</font>
+
+149
+00:13:49,166 --> 00:13:50,666
+<font color="#ffff00">Cerita itu lagi?</font>
+
+150
+00:13:52,208 --> 00:13:53,375
+<font color="#ffff00">Aku sudah muak dengan itu.</font>
+
+151
+00:14:02,458 --> 00:14:05,916
+<font color="#ffff00">Entah apa yang anaknya ceritakan padamu,
+tapi kau terlalu mengada-ada.</font>
+
+152
+00:14:07,958 --> 00:14:09,666
+<font color="#ffff00">Kau mirip sekali dengan Kano.</font>
+
+153
+00:14:11,625 --> 00:14:12,666
+<font color="#ffff00">Apa maksudmu?</font>
+
+154
+00:14:18,041 --> 00:14:20,500
+<font color="#ffff00">Kano memang datang ke rumah kami hari itu.</font>
+
+155
+00:14:21,833 --> 00:14:25,458
+<font color="#ffff00"><i>Mengakulah!</i></font>
+
+156
+00:14:25,541 --> 00:14:29,708
+<font color="#ffff00"><i>Kalian makan orang!</i></font>
+
+157
+00:14:29,916 --> 00:14:34,708
+<font color="#ffff00"><i>Kalian makan orang!</i></font>
+
+158
+00:14:34,791 --> 00:14:36,833
+<font color="#ffff00"><i>Kalian kanibal!</i></font>
+
+159
+00:14:36,916 --> 00:14:38,916
+<font color="#ffff00"><i>Mengakulah!</i></font>
+
+160
+00:14:39,583 --> 00:14:42,125
+<font color="#ffff00"><i>Sekarang juga!</i></font>
+
+161
+00:14:42,708 --> 00:14:45,291
+<font color="#ffff00"><i>Hei, Nenek Tua! Keluar!</i></font>
+
+162
+00:14:45,458 --> 00:14:49,250
+<font color="#ffff00"><i>Hei, kalian! Aku tahu semuanya!</i></font>
+
+163
+00:14:49,333 --> 00:14:50,916
+<font color="#ffff00"><i>Kalian semua...</i></font>
+
+164
+00:14:51,000 --> 00:14:53,083
+<font color="#ffff00">Apakah dia terlihat seperti orang waras?</font>
+
+165
+00:14:53,166 --> 00:14:57,166
+<font color="#ffff00"><i>Kalian semua gila!</i></font>
+
+166
+00:14:57,250 --> 00:14:59,083
+<font color="#ffff00"><i>Kalian semua gila!</i></font>
+
+167
+00:14:59,166 --> 00:15:02,500
+<font color="#ffff00">Inilah yang terjadi
+kepada orang gila yang berkhayal.</font>
+
+168
+00:15:03,291 --> 00:15:04,731
+<font color="#ffff00"><i>Aku akan menghancurkan kalian semua!</i></font>
+
+169
+00:15:09,208 --> 00:15:10,708
+<font color="#ffff00">Terima kasih untuk informasinya.</font>
+
+170
+00:15:12,625 --> 00:15:13,825
+<font color="#ffff00">Informasi ini sungguh berguna.</font>
+
+171
+00:15:14,583 --> 00:15:15,916
+<font color="#ffff00">Kau akan tetap menyelidiki?</font>
+
+172
+00:15:20,250 --> 00:15:22,250
+<font color="#ffff00">Itu pekerjaanku.</font>
+
+173
+00:15:39,833 --> 00:15:41,291
+<font color="#ffff00">Kalau begitu, silakan.</font>
+
+174
+00:15:41,375 --> 00:15:44,583
+<font color="#ffff00">Namun, Kano-lah yang gila.</font>
+
+175
+00:16:05,083 --> 00:16:06,166
+<font color="#ffff00">Kau melepaskannya?</font>
+
+176
+00:16:09,083 --> 00:16:10,791
+<font color="#ffff00">Itu bukan keputusanku.</font>
+
+177
+00:16:12,625 --> 00:16:14,333
+<font color="#ffff00">Selanjutnya tergantung pada "Pria Itu".</font>
+
+178
+00:16:18,541 --> 00:16:24,958
+<font color="#ffff00"><i>Mengakulah!</i></font>
+
+179
+00:16:25,041 --> 00:16:26,333
+<font color="#ffff00"><i>Kalian</i></font>
+
+180
+00:16:27,041 --> 00:16:29,125
+<font color="#ffff00"><i>makan orang!</i></font>
+
+181
+00:16:29,208 --> 00:16:34,250
+<font color="#ffff00"><i>Kalian makan orang!</i></font>
+
+182
+00:16:34,333 --> 00:16:35,958
+<font color="#ffff00"><i>Kalian kanibal!</i></font>
+
+183
+00:16:36,041 --> 00:16:37,291
+<font color="#ffff00"><i>Mengakulah!</i></font>
+
+184
+00:16:37,375 --> 00:16:39,375
+<font color="#ffff00"><i>Aku akan menghancurkan kalian semua!</i></font>
+
+185
+00:16:39,458 --> 00:16:41,166
+<font color="#ffff00"><i>Kalian gila!</i></font>
+
+186
+00:16:41,250 --> 00:16:43,875
+<font color="#ffff00"><i>Dasar gila!</i></font>
+
+187
+00:16:43,958 --> 00:16:46,541
+<font color="#ffff00"><i>Kalian tidak waras!</i></font>
+
+188
+00:16:48,250 --> 00:16:49,166
+<font color="#ffff00"><i>Buka!</i></font>
+
+189
+00:16:49,250 --> 00:16:52,750
+<font color="#ffff00"><i>Akan kubakar kalian semua!</i></font>
+
+190
+00:16:52,833 --> 00:16:54,875
+<font color="#ffff00"><i>Akan kubakar kalian menjadi abu!</i></font>
+
+191
+00:16:55,291 --> 00:16:56,291
+<font color="#ffff00"><i>Sial.</i></font>
+
+192
+00:16:56,375 --> 00:16:59,625
+<font color="#ffff00"><i>Ini semua salah kalian!</i></font>
+
+193
+00:16:59,708 --> 00:17:01,583
+<font color="#ffff00"><i>Mengakulah!</i></font>
+
+194
+00:17:01,666 --> 00:17:05,333
+<font color="#ffff00"><i>Kalian makan orang!</i></font>
+
+195
+00:17:19,166 --> 00:17:20,166
+<font color="#ffff00">Mashiro...</font>
+
+196
+00:17:20,916 --> 00:17:22,666
+<font color="#ffff00">Bagaimana sekolah hari ini?</font>
+
+197
+00:17:26,500 --> 00:17:27,500
+<font color="#ffff00">Apakah menyenangkan?</font>
+
+198
+00:17:34,708 --> 00:17:36,041
+<font color="#ffff00">Begitukah?</font>
+
+199
+00:17:37,166 --> 00:17:38,666
+<font color="#ffff00">Baguslah.</font>
+
+200
+00:17:40,666 --> 00:17:42,208
+<font color="#ffff00">Bu Agawa!</font>
+
+201
+00:17:43,875 --> 00:17:45,083
+<font color="#ffff00">Selamat siang.</font>
+
+202
+00:17:45,375 --> 00:17:47,708
+<font color="#ffff00">Bagaimana kalau kita pulang bersama?</font>
+
+203
+00:17:48,416 --> 00:17:49,250
+<font color="#ffff00">Jangan dijilat.</font>
+
+204
+00:17:49,333 --> 00:17:51,416
+<font color="#ffff00">Apa? Baiklah.</font>
+
+205
+00:17:57,666 --> 00:17:59,708
+<font color="#ffff00">Apakah kau sudah terbiasa dengan desa ini?</font>
+
+206
+00:17:59,833 --> 00:18:01,833
+<font color="#ffff00">Sedikit demi sedikit.</font>
+
+207
+00:18:01,958 --> 00:18:04,833
+<font color="#ffff00">Aku sungguh terbantu
+oleh kebaikan semuanya.</font>
+
+208
+00:18:06,000 --> 00:18:08,625
+<font color="#ffff00">Apakah kau dekat dengan keluarga Goto?</font>
+
+209
+00:18:08,916 --> 00:18:10,375
+<font color="#ffff00">Apa? Tidak juga.</font>
+
+210
+00:18:10,458 --> 00:18:13,291
+<font color="#ffff00">- Ibu! Aku menangkap satu!
+- Menangkap apa?</font>
+
+211
+00:18:13,375 --> 00:18:14,375
+<font color="#ffff00">Kupu-kupu?</font>
+
+212
+00:18:14,416 --> 00:18:15,750
+<font color="#ffff00">Tunggu sebentar.</font>
+
+213
+00:18:16,916 --> 00:18:17,916
+<font color="#ffff00">Begini...</font>
+
+214
+00:18:18,541 --> 00:18:22,500
+<font color="#ffff00">Ada yang melihat suamimu pergi minum
+dengan mereka.</font>
+
+215
+00:18:22,958 --> 00:18:24,125
+<font color="#ffff00">Benar.</font>
+
+216
+00:18:24,208 --> 00:18:26,625
+<font color="#ffff00">Dia memang pergi minum dengan mereka
+beberapa malam lalu.</font>
+
+217
+00:18:28,916 --> 00:18:31,625
+<font color="#ffff00">Lebih baik kalau kau tidak begitu terlibat
+dengan keluarga Goto.</font>
+
+218
+00:18:36,583 --> 00:18:42,083
+<font color="#ffff00"><i>Keluarga Goto hidup dengan nilai-nilai
+yang berbeda dari kita, orang biasa.</i></font>
+
+219
+00:18:43,125 --> 00:18:46,125
+<font color="#ffff00"><i>Mereka adalah sekelompok orang barbar.</i></font>
+
+220
+00:18:46,916 --> 00:18:48,125
+<font color="#ffff00"><i>Begitukah?</i></font>
+
+221
+00:18:48,208 --> 00:18:50,833
+<font color="#ffff00">{\an8}MAKAM GIN GOTO</font>
+
+222
+00:19:13,125 --> 00:19:14,291
+<font color="#ffff00">Sampai bertemu besok.</font>
+
+223
+00:19:14,541 --> 00:19:16,125
+<font color="#ffff00">Mari minum teh bersama lain kali.</font>
+
+224
+00:19:16,208 --> 00:19:17,208
+<font color="#ffff00">Tentu.</font>
+
+225
+00:19:17,750 --> 00:19:18,750
+<font color="#ffff00">Ada apa?</font>
+
+226
+00:19:19,166 --> 00:19:20,250
+<font color="#ffff00">Kau ingin memberikan itu?</font>
+
+227
+00:19:20,333 --> 00:19:21,333
+<font color="#ffff00">Berikanlah.</font>
+
+228
+00:19:23,750 --> 00:19:24,750
+<font color="#ffff00">Ini.</font>
+
+229
+00:19:29,041 --> 00:19:30,375
+<font color="#ffff00">Kau senang, Mashiro?</font>
+
+230
+00:19:30,458 --> 00:19:31,458
+<font color="#ffff00">Terima kasih.</font>
+
+231
+00:19:32,166 --> 00:19:33,000
+<font color="#ffff00">Dadah.</font>
+
+232
+00:19:33,083 --> 00:19:34,083
+<font color="#ffff00">Lambaikan tanganmu.</font>
+
+233
+00:19:36,708 --> 00:19:39,541
+<font color="#ffff00">Aku sungguh-sungguh. Berhati-hatilah.</font>
+
+234
+00:19:50,708 --> 00:19:51,708
+<font color="#ffff00"><i>Begitu rupanya...</i></font>
+
+235
+00:19:53,458 --> 00:19:54,458
+<font color="#ffff00">Aku mengerti.</font>
+
+236
+00:19:58,791 --> 00:19:59,875
+<font color="#ffff00">Itu tadi dari Iwao.</font>
+
+237
+00:20:00,500 --> 00:20:02,583
+<font color="#ffff00">Polisi itu sedang menuju rumah utama.</font>
+
+238
+00:20:02,833 --> 00:20:03,916
+<font color="#ffff00">Si berengsek itu...</font>
+
+239
+00:20:04,291 --> 00:20:05,500
+<font color="#ffff00">- Ayo kita pergi.
+- Siap.</font>
+
+240
+00:20:05,583 --> 00:20:06,583
+<font color="#ffff00">Hei.</font>
+
+241
+00:20:07,333 --> 00:20:08,750
+<font color="#ffff00">Hei, tunggu.</font>
+
+242
+00:20:08,958 --> 00:20:09,833
+<font color="#ffff00">Apa?</font>
+
+243
+00:20:09,916 --> 00:20:12,116
+<font color="#ffff00">Kita harus berpikir dengan matang dulu
+sebelum bergerak.</font>
+
+244
+00:20:12,208 --> 00:20:13,958
+<font color="#ffff00">- Apa?
+- Dia benar.</font>
+
+245
+00:20:14,041 --> 00:20:15,375
+<font color="#ffff00">Tenangkan dirimu sedikit.</font>
+
+246
+00:20:15,458 --> 00:20:17,583
+<font color="#ffff00">- Kita harus melindungi keluarga kita!
+- Hei!</font>
+
+247
+00:20:18,375 --> 00:20:20,125
+<font color="#ffff00">Kau hanya ingin membuat rusuh.</font>
+
+248
+00:20:20,208 --> 00:20:21,208
+<font color="#ffff00">Apa?</font>
+
+249
+00:20:21,500 --> 00:20:23,208
+<font color="#ffff00">Diam di sini tak akan melindungi keluarga!</font>
+
+250
+00:20:23,291 --> 00:20:24,916
+<font color="#ffff00">Dia petugas polisi.</font>
+
+251
+00:20:25,041 --> 00:20:27,083
+<font color="#ffff00">Maksudku, ada cara lain
+untuk membereskannya.</font>
+
+252
+00:20:28,458 --> 00:20:30,000
+<font color="#ffff00">- Hei, Keisuke...
+- Apa?</font>
+
+253
+00:20:30,958 --> 00:20:32,791
+<font color="#ffff00">Apa yang ingin kau lindungi?</font>
+
+254
+00:20:40,916 --> 00:20:42,000
+<font color="#ffff00">Ada apa denganmu?</font>
+
+255
+00:20:42,875 --> 00:20:44,375
+<font color="#ffff00">Apa yang kau takutkan?</font>
+
+256
+00:20:44,458 --> 00:20:46,333
+<font color="#ffff00">Aku hanya ingin kalian semua tenang.</font>
+
+257
+00:20:46,416 --> 00:20:47,958
+<font color="#ffff00">Tidak ada gunanya berbicara dengannya.</font>
+
+258
+00:20:48,625 --> 00:20:49,625
+<font color="#ffff00">Ayo pergi.</font>
+
+259
+00:20:53,791 --> 00:20:55,083
+<font color="#ffff00">Tunggu!</font>
+
+260
+00:20:56,416 --> 00:20:57,541
+<font color="#ffff00">Aku akan ikut mereka...</font>
+
+261
+00:21:00,416 --> 00:21:01,666
+<font color="#ffff00">Apa gunanya kau pergi?</font>
+
+262
+00:21:03,125 --> 00:21:05,666
+<font color="#ffff00">Dia hanya seorang petugas polisi.
+Kita bisa mengurusnya nanti.</font>
+
+263
+00:21:07,625 --> 00:21:09,166
+<font color="#ffff00">Jadi, kita harus bagaimana?</font>
+
+264
+00:21:22,041 --> 00:21:29,041
+<font color="#ffff00">KEPOLISIAN OKAYAMA</font>
+
+265
+00:22:02,125 --> 00:22:04,208
+<font color="#ffff00">Aku Agawa dari Kantor Polisi Kuge.</font>
+
+266
+00:22:05,166 --> 00:22:06,625
+<font color="#ffff00">Apakah ada orang?</font>
+
+267
+00:22:14,875 --> 00:22:16,791
+<font color="#ffff00">Apakah ada orang?</font>
+
+268
+00:22:22,916 --> 00:22:25,083
+<font color="#ffff00">Selamat siang.</font>
+
+269
+00:22:26,500 --> 00:22:29,000
+<font color="#ffff00">Aku Agawa dari Kantor Polisi Kuge.</font>
+
+270
+00:22:29,083 --> 00:22:31,375
+<font color="#ffff00">Aku ingin berbicara sebentar.
+Bisakah kau turun?</font>
+
+271
+00:22:35,291 --> 00:22:36,375
+<font color="#ffff00">Bisakah kau mendengarku?</font>
+
+272
+00:22:40,750 --> 00:22:42,375
+<font color="#ffff00">Aku tahu kau mendengar.</font>
+
+273
+00:22:46,916 --> 00:22:48,958
+<font color="#ffff00">Kau dengar, bukan?</font>
+
+274
+00:22:50,625 --> 00:22:52,625
+<font color="#ffff00">Kenapa kau merekamku?</font>
+
+275
+00:22:53,291 --> 00:22:54,291
+<font color="#ffff00">Hei!</font>
+
+276
+00:22:54,416 --> 00:22:57,041
+<font color="#ffff00">Kau pikir berbicara dengan siapa?
+Dasar berengsek!</font>
+
+277
+00:23:01,625 --> 00:23:03,791
+<font color="#ffff00">Aku kemari hanya untuk berbicara.</font>
+
+278
+00:23:05,125 --> 00:23:08,166
+<font color="#ffff00">Kau ingin menanyakan
+apakah kami membunuh Kano, bukan?</font>
+
+279
+00:23:09,208 --> 00:23:13,416
+<font color="#ffff00">Kami sudah muak mendengar
+pertanyaan yang sama berulang-ulang.</font>
+
+280
+00:23:13,791 --> 00:23:14,791
+<font color="#ffff00">Pergi dari sini.</font>
+
+281
+00:23:15,291 --> 00:23:16,833
+<font color="#ffff00">Sekarang juga.</font>
+
+282
+00:23:18,208 --> 00:23:19,416
+<font color="#ffff00">Kalau kau tidak pergi juga...</font>
+
+283
+00:23:21,458 --> 00:23:22,750
+<font color="#ffff00">aku akan membunuhmu.</font>
+
+284
+00:23:32,666 --> 00:23:34,125
+<font color="#ffff00">Maaf, tapi aku tidak akan pergi.</font>
+
+285
+00:23:34,875 --> 00:23:36,291
+<font color="#ffff00">Kau pikir ini ancaman belaka?</font>
+
+286
+00:23:36,375 --> 00:23:37,625
+<font color="#ffff00">Aku tak peduli.</font>
+
+287
+00:23:38,291 --> 00:23:44,125
+<font color="#ffff00">Namun, kenapa kalian ingin sekali
+menjauhkan aku dari rumah kalian?</font>
+
+288
+00:23:46,875 --> 00:23:49,208
+<font color="#ffff00">Aku ingin tahu alasannya.</font>
+
+289
+00:23:50,791 --> 00:23:53,166
+<font color="#ffff00">Sebagai petugas polisi,
+aku akan menyelidiki sampai tuntas.</font>
+
+290
+00:23:54,250 --> 00:23:55,250
+<font color="#ffff00">Kalau begitu...</font>
+
+291
+00:23:56,416 --> 00:23:57,625
+<font color="#ffff00">Mati kau!</font>
+
+292
+00:24:00,916 --> 00:24:01,958
+<font color="#ffff00">Jangan bergerak!</font>
+
+293
+00:24:03,041 --> 00:24:04,041
+<font color="#ffff00">Jangan bergerak.</font>
+
+294
+00:24:08,000 --> 00:24:10,083
+<font color="#ffff00">Sial... Kau benar-benar menembakku.</font>
+
+295
+00:24:12,416 --> 00:24:13,500
+<font color="#ffff00">Jangan bergerak!</font>
+
+296
+00:24:16,000 --> 00:24:18,166
+<font color="#ffff00">Kalian tahu
+di mana Pak Kano berada, bukan?</font>
+
+297
+00:24:18,958 --> 00:24:21,583
+<font color="#ffff00">Kami tidak akan memberitahumu meski tahu.</font>
+
+298
+00:24:26,458 --> 00:24:27,875
+<font color="#ffff00">Ayo, tembak!</font>
+
+299
+00:24:31,291 --> 00:24:33,958
+<font color="#ffff00">Aku tahu kau bisa melakukannya.</font>
+
+300
+00:24:34,541 --> 00:24:35,833
+<font color="#ffff00">Apa?</font>
+
+301
+00:24:35,916 --> 00:24:38,500
+<font color="#ffff00">Aku tahu masa lalumu.</font>
+
+302
+00:24:39,333 --> 00:24:43,250
+<font color="#ffff00">Alasan kau dikirim ke sini.
+Aku tahu semuanya.</font>
+
+303
+00:24:46,541 --> 00:24:49,291
+<font color="#ffff00">Kau ingin aku mengatakannya?</font>
+
+304
+00:24:51,541 --> 00:24:53,291
+<font color="#ffff00">Kau membunuh...</font>
+
+305
+00:24:58,250 --> 00:24:59,583
+<font color="#ffff00">Apa-apaan kau?</font>
+
+306
+00:24:59,708 --> 00:25:00,791
+<font color="#ffff00">Dasar aneh.</font>
+
+307
+00:25:01,083 --> 00:25:02,083
+<font color="#ffff00">Dasar aneh!</font>
+
+308
+00:26:03,208 --> 00:26:04,416
+<font color="#ffff00">Orang aneh!</font>
+
+309
+00:26:10,416 --> 00:26:12,416
+<font color="#ffff00">Kalian semua ditahan.</font>
+
+310
+00:26:14,875 --> 00:26:17,750
+<font color="#ffff00">Kalian akan katakan padaku
+apa yang terjadi pada Pak Kano.</font>
+
+311
+00:26:23,791 --> 00:26:26,666
+<font color="#ffff00">Kau akhirnya sudah melewati batas.</font>
+
+312
+00:26:27,291 --> 00:26:28,291
+<font color="#ffff00">Apa?</font>
+
+313
+00:26:29,166 --> 00:26:30,958
+<font color="#ffff00">Kau menyerang anggota keluarga Goto.</font>
+
+314
+00:26:32,333 --> 00:26:34,333
+<font color="#ffff00">"Pria Itu" tidak mungkin
+akan melepaskanmu.</font>
+
+315
+00:26:36,916 --> 00:26:38,541
+<font color="#ffff00">Kau tidak akan selamat.</font>
+
+316
+00:26:39,750 --> 00:26:40,875
+<font color="#ffff00">"Pria Itu"?</font>
+
+317
+00:26:41,625 --> 00:26:43,916
+<font color="#ffff00">Bicara apa kau? Kalian semua ditahan.</font>
+
+318
+00:26:44,416 --> 00:26:47,375
+<font color="#ffff00">Hukum negara tidak berlaku di desa ini.</font>
+
+319
+00:26:51,625 --> 00:26:56,875
+<font color="#ffff00">Di zaman dahulu,
+setiap desa memiliki aturannya sendiri.</font>
+
+320
+00:27:01,583 --> 00:27:04,125
+<font color="#ffff00">Manusia hidup sesuai
+dengan aturan tersebut.</font>
+
+321
+00:27:06,416 --> 00:27:11,291
+<font color="#ffff00">Salah satu aturan dari Desa Kuge adalah,
+"Jangan berurusan dengan Keluarga Goto".</font>
+
+322
+00:27:11,375 --> 00:27:12,375
+<font color="#ffff00">Kau sudah melanggarnya.</font>
+
+323
+00:27:17,833 --> 00:27:19,166
+<font color="#ffff00">Akan ada konsekuensinya...</font>
+
+324
+00:27:20,208 --> 00:27:21,208
+<font color="#ffff00">baik bagimu...</font>
+
+325
+00:27:24,125 --> 00:27:25,375
+<font color="#ffff00">dan keluargamu.</font>
+
+326
+00:27:30,708 --> 00:27:31,875
+<font color="#ffff00">Tutup mulutmu.</font>
+
+327
+00:27:33,541 --> 00:27:35,458
+<font color="#ffff00">Apa yang dimakan kupu-kupu?</font>
+
+328
+00:27:36,166 --> 00:27:38,291
+<font color="#ffff00">Apakah kita punya kotak serangga di rumah?</font>
+
+329
+00:27:47,625 --> 00:27:50,291
+<font color="#ffff00">Maaf. Apakah ada yang bisa kubantu?</font>
+
+330
+00:27:55,916 --> 00:27:57,250
+<font color="#ffff00">Kau siapa?</font>
+
+331
+00:27:57,916 --> 00:27:59,666
+<font color="#ffff00">Keisuke Goto.</font>
+
+332
+00:28:00,750 --> 00:28:02,083
+<font color="#ffff00">Goto...</font>
+
+333
+00:28:02,458 --> 00:28:03,458
+<font color="#ffff00">Benar.</font>
+
+334
+00:28:04,083 --> 00:28:05,083
+<font color="#ffff00">Mereka datang.</font>
+
+335
+00:28:15,500 --> 00:28:17,666
+<font color="#ffff00">Kau tidak bisa masuk seenaknya, Pak Goto.</font>
+
+336
+00:28:23,625 --> 00:28:27,125
+<font color="#ffff00">Semua yang ada di sini adalah Goto.</font>
+
+337
+00:28:40,250 --> 00:28:43,291
+<font color="#ffff00">Kau selalu menggunakan sandal?</font>
+
+338
+00:28:45,000 --> 00:28:46,000
+<font color="#ffff00">Apa?</font>
+
+339
+00:28:48,833 --> 00:28:51,916
+<font color="#ffff00">Sayangnya kau tidak memakai alas kaki
+yang akan membantumu berlari kencang.</font>
+
+340
+00:29:03,208 --> 00:29:07,083
+<font color="#ffff00">- Kenapa? Apa yang mereka perbuat?
+- Tolong kami!</font>
+
+341
+00:29:11,416 --> 00:29:14,416
+<font color="#ffff00"><i>Panggilan Anda tidak terjawab.</i></font>
+
+342
+00:29:15,000 --> 00:29:19,166
+<font color="#ffff00"><i>Silakan tinggalkan nama dan pesan
+setelah nada berikut.</i></font>
+
+343
+00:29:22,625 --> 00:29:23,666
+<font color="#ffff00">Aku Nakamura.</font>
+
+344
+00:29:24,291 --> 00:29:25,458
+<font color="#ffff00">Petugas Agawa?</font>
+
+345
+00:29:25,583 --> 00:29:26,875
+<font color="#ffff00">Mengenai jari yang tempo lalu...</font>
+
+346
+00:29:27,583 --> 00:29:29,103
+<font color="#ffff00">Kami mengetahui pemilik jari tersebut.</font>
+
+347
+00:29:32,250 --> 00:29:36,166
+<font color="#ffff00">Itu jari milik pendahulumu
+yang menghilang...</font>
+
+348
+00:29:38,250 --> 00:29:40,583
+<font color="#ffff00">Itu jari milik Pak Osamu Kano.</font>
+
+349
+00:29:45,125 --> 00:29:46,458
+<font color="#ffff00">Taichi!</font>
+
+350
+00:29:47,541 --> 00:29:51,625
+<font color="#ffff00">Aku akan mengeluarkanmu dari situ. Tunggu.</font>
+
+351
+00:29:54,041 --> 00:29:56,281
+<font color="#ffff00">Ini Kantor Polisi Kuge,
+memanggil Kantor Polisi Morobe...</font>
+
+352
+00:29:56,750 --> 00:29:59,750
+<font color="#ffff00">Aku akan memastikan mereka menyesal
+atas kesalahan mereka.</font>
+
+353
+00:29:59,875 --> 00:30:02,083
+<font color="#ffff00">Semua yang terjadi di daerah kami</font>
+
+354
+00:30:02,166 --> 00:30:04,291
+<font color="#ffff00">akan kami bereskan sendiri.</font>
+
+355
+00:30:05,041 --> 00:30:06,708
+<font color="#ffff00">Hentikan ini. Mundurlah.</font>
+
+356
+00:30:06,791 --> 00:30:12,291
+<font color="#ffff00">Urusan keluarga Goto
+harus diselesaikan oleh "Pria Itu".</font>
+
+357
+00:30:12,458 --> 00:30:15,208
+<font color="#ffff00">"Pria Itu" lagi? Siapa dia?</font>
+
+358
+00:30:43,416 --> 00:30:46,875
+<font color="#ffff00">LARI</font>
+
+359
+00:33:00,666 --> 00:33:02,666
+<font color="#ffff00">Terjemahan subtitle oleh
+Ganita Kurniasih Suryaman</font>
