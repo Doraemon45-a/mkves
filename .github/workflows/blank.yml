@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikus.workers.dev/0:/movieb/Miracle.In.Cell.No.7.2019.720p.WEB-DL.x264.999MB-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikug.workers.dev/0:/movieb/pahein-jwr.hd.264.mkv"
 
     - name: List files for debugging
       run: ls -lh
